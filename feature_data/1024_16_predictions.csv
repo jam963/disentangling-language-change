@@ -1,0 +1,1025 @@
+,correlation,p_value,f1_score,accuracy,total_samples,none_responses,description
+0,0.49572714777127186,0.3173206127016453,0.5,0.6666666666666666,6,0,Races animales locales en élevage comparatif
+1,-0.12639003479138963,0.8114244528831345,0.4,0.5,6,0,Contraste culturel/historique avec influence extérieure.
+2,-0.7924058156930616,0.06016984650357823,0.0,0.5,6,0,Figures mythologiques indigènes et syncrétisme culturel.
+3,0.41105415366029247,0.4181457583532756,0.5,0.6666666666666666,6,0,Interactions économiques coloniales avec monnaies spécifiques.
+4,-0.7071067811865476,0.11611652351681565,0.0,0.5,6,0,Comparaison valorisante d'entités indigènes naturelles.
+5,-0.1690308509457033,0.7488684500235266,0.0,0.5,6,0,Chevaux locaux soutenus institutionnellement.
+6,0.7242243488319187,0.10359164082873236,0.8,0.8333333333333334,6,0,Recensement démographique historique géographique indigènes.
+7,0.3835976370458337,0.4528261934030899,0.5,0.6666666666666666,6,0,"Interactions historiques indigènes-étrangers, domination culturelle."
+8,-0.29277002188455997,0.5733922538253555,0.0,0.5,6,0,"Noms vernaculaires plantes indigènes, usages culturels spécifiques"
+9,-0.3285412300992245,0.5249194166004969,0.0,0.3333333333333333,6,0,"Contexte religieux-éducatif à Madagascar, produits locaux."
+10,0.7238423518714864,0.10386425813297832,0.8,0.8333333333333334,6,0,Origine géographique naturelle des plantes.
+11,0.7627605595395885,0.07774760757982715,0.8,0.8333333333333334,6,0,Traités avec chefs indigènes en contexte colonial
+12,0.3922322702763681,0.44182330768363004,0.0,0.5,6,0,Croyances indigènes sur nature et médecine
+13,-0.7318890516097422,0.09818884688519244,0.0,0.16666666666666666,6,0,Indigènes dans structures coloniales et économiques
+14,-0.21821789023599242,0.6778688286992494,0.0,0.5,6,0,Esprit culturel original et vivace français
+15,-0.6683621284314669,0.14673814037162305,0.0,0.16666666666666666,6,0,Indigènes dans contexte économique/commercial fonctionnel.
+16,0.024625761678892605,0.9630688243590654,0.5714285714285714,0.5,6,0,Contexte administratif comparant Européens et indigènes.
+17,0.49326362366699006,0.32011230460498813,0.5,0.6666666666666666,6,0,"Contexte botanique, plantes locales, descriptions scientifiques."
+18,-0.08804509063256238,0.8682736240923677,0.0,0.5,6,0,Interactions institutionnelles avec indigènes dans systèmes formels
+19,-0.3615770223014215,0.4812703846239338,0.3333333333333333,0.3333333333333333,6,0,Stéréotypes coloniaux comportementaux et culturels.
+20,1.0408340855860843e-17,1.0,0.0,0.5,6,0,Variétés locales améliorées par greffage agricole.
+21,0.0607546420598255,0.9089801634458808,0.5714285714285714,0.5,6,0,"Contexte légal-économique, distinction indigène-colonial."
+22,0.5097748124984862,0.3015754631355448,0.5,0.6666666666666666,6,0,"Espèces végétales locales, adaptation environnementale"
+23,0.5146502354656654,0.29618102933614426,0.0,0.5,6,0,Plantes acclimatées devenues indigènes en Europe
+24,-0.3599370165326781,0.48341023335694583,0.3333333333333333,0.3333333333333333,6,0,Contexte institutionnel ou formel des indigènes
+25,-0.5698028822981898,0.23779614445826566,0.0,0.5,6,0,"Conflit armé, résistance indigène, contexte colonial."
+26,0.3979185818079683,0.4346251817943083,0.5,0.6666666666666666,6,0,"Indigènes de Tahiti, culture et interactions européennes"
+27,-0.741998516004452,0.09126024444398577,0.0,0.5,6,0,Pratiques culturelles et réactions émotionnelles indigènes.
+28,0.612667191475617,0.19598492442375703,0.8571428571428571,0.8333333333333334,6,0,"Contexte colonial, distinction indigènes-Européens, communes mixtes."
+29,0.35646589433789816,0.4879488508296506,0.6666666666666666,0.6666666666666666,6,0,"Plantes et arbres locaux, contexte botanique"
+30,0.34589809891083956,0.5018454262362355,0.6666666666666666,0.6666666666666666,6,0,Consommation locale de produits indigènes.
+31,0.3663967458131496,0.47499863545129517,0.5,0.6666666666666666,6,0,Autorité indigène dans contexte colonial historique
+32,0.4576043153224295,0.3615050899454137,0.75,0.6666666666666666,6,0,Contexte colonial administratif Algérie début XXe siècle
+33,0.6916266597923983,0.12797893018708564,0.8571428571428571,0.8333333333333334,6,0,Contexte historique militaire ou administratif indigène
+34,-0.1856953381770519,0.7246586364960955,0.0,0.5,6,0,Caractéristiques biologiques ou physiques spécifiques des indigènes
+35,-0.1073656254190038,0.8395703839200187,0.4,0.5,6,0,Comparaison culturelle et jugement qualitatif
+36,0.41736500618415157,0.41030363642368256,0.5,0.6666666666666666,6,0,Taxation législative des sucres indigènes historiques
+37,-0.9794281808648355,0.0006304466195141924,0.0,0.0,6,0,"Administration coloniale, économie, développement infrastructurel."
+38,-0.11111111111111112,0.8340192043895747,0.5714285714285714,0.5,6,0,"Contexte militaire colonial, administration indigène."
+39,0.0785943775593369,0.8823511753899013,0.4,0.5,6,0,Éducation institutionnelle formelle des indigènes historiques
+40,0.31847288588579387,0.5384412240599014,0.5,0.6666666666666666,6,0,Enseignement franco-indigène en contexte colonial.
+41,0.5104851915074736,0.30078719035180135,0.5,0.6666666666666666,6,0,Pratiques culturelles et institutions indigènes spécifiques
+42,0.7373087284671365,0.09444632678197336,0.0,0.5,6,0,Interactions juridiques spécifiques sans influence européenne
+43,-0.5363499164507368,0.27262134618324735,0.0,0.16666666666666666,6,0,Exploitation économique coloniale des indigènes
+44,0.27948154232004163,0.5916928287224078,0.75,0.6666666666666666,6,0,"Contexte colonial, domination européenne, perception condescendante."
+45,0.5698028822981898,0.23779614445826566,0.5,0.6666666666666666,6,0,Gestion coloniale et amélioration des conditions indigènes
+46,-0.44281728720136404,0.3791894590725208,0.3333333333333333,0.3333333333333333,6,0,Contraste indigène/étranger dans systèmes organisés
+47,0.33017868822930313,0.5227296721862489,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial, séparation sociale, réformes indigènes."
+48,0.4850712500726662,0.32946033078190273,0.0,0.5,6,0,Indigènes impliqués dans transport colonial difficile
+49,0.16903085094570325,0.7488684500235266,0.0,0.5,6,0,Relations politiques coloniales France-indigènes
+50,0.35847113725824714,0.4853253436163272,0.6666666666666666,0.6666666666666666,6,0,Autorités indigènes dans contexte administratif légal
+51,0.36514837167011077,0.4766206672728413,0.0,0.5,6,0,Origine géographique des plantes botaniques
+52,-0.08728715609439693,0.8694017883578119,0.4,0.5,6,0,Produit culturel ou intellectuel local.
+53,-0.43643578047198484,0.3869116417179262,0.0,0.5,6,0,Ressources indigènes dans contexte économique/commercial.
+54,0.23424606849358914,0.6550575811096643,0.75,0.6666666666666666,6,0,"Contexte historique, jugement racial négatif, conquête."
+55,0.55887729251237,0.2489649977182595,0.6666666666666666,0.6666666666666666,6,0,"Contexte institutionnel religieux, administratif, éducatif, culturel."
+56,0.08475117328217649,0.8731776138036067,0.5714285714285714,0.5,6,0,Administration coloniale et rôles indigènes officiels
+57,-0.3637876100355103,0.4783906703406268,0.0,0.3333333333333333,6,0,Opposition produits locaux vs importations étrangères.
+58,0.5552937760592971,0.2526720808281195,0.8,0.8333333333333334,6,0,Indigènes en contexte d'esclavage et distinction ethnique.
+59,0.5725983343138684,0.23497107792491367,0.5,0.6666666666666666,6,0,Objets ou systèmes culturels spécifiques indigènes.
+60,-0.6030226891555273,0.20510645520407772,0.0,0.3333333333333333,6,0,Origine ethnique et influence culturelle historique
+61,-0.026640630772354082,0.9600485075784356,0.5714285714285714,0.5,6,0,"Interactions coloniales, perceptions mutuelles, contexte militaire."
+62,-0.7698003589195012,0.07338845685615603,0.0,0.5,6,0,Produits agricoles locaux sous cadre légal.
+63,0.7192970308535606,0.1071323584365667,0.8571428571428571,0.8333333333333334,6,0,"Administration coloniale française, unités militaires indigènes."
+64,0.47373777653468874,0.3425532230991876,0.5,0.6666666666666666,6,0,Races animales locales en zootechnie et élevage
+65,0.6386955544948192,0.17222884934453314,0.5,0.6666666666666666,6,0,Comparaison économique ou administrative locale-importée
+66,0.6636015163311973,0.15071182084218335,0.75,0.6666666666666666,6,0,Interactions historiques géographiques avec Européens.
+67,-0.0485071250072666,0.927296379694991,0.4,0.5,6,0,"Contexte colonial, domination et gestion des indigènes."
+68,0.5570860145311557,0.2508153597684457,0.0,0.5,6,0,Plantes poussant naturellement dans leur région d'origine
+69,0.7474945323789184,0.087588767301464,0.8571428571428571,0.8333333333333334,6,0,Main-d'œuvre indigène dans contexte colonial économique.
+70,0.6767529681839597,0.1398451434193033,0.8571428571428571,0.8333333333333334,6,0,"Interactions coloniales, pouvoir, géographie spécifique."
+71,0.6156440419723151,0.19320389648139913,0.8,0.8333333333333334,6,0,Matériaux locaux dans artisanat et industrie
+72,0.48970210687439175,0.3241641186901379,0.5,0.6666666666666666,6,0,Pratiques culturelles ou artistiques locales spécifiques
+73,0.4816463087726718,0.3333974548233037,0.5,0.6666666666666666,6,0,Noms locaux donnés par indigènes à lieux.
+74,-0.5077455374260741,0.3038314977485495,0.0,0.3333333333333333,6,0,Interaction indigènes et Européens en contexte formel.
+75,0.44721359549995787,0.373900966300059,0.5,0.6666666666666666,6,0,"Plantes vivaces, caractéristiques florales, conditions croissance"
+76,-0.5883484054145522,0.2193069235845365,0.0,0.5,6,0,Indigènes en contexte culturel et esthétique spécifique.
+77,0.0,1.0,0.0,0.5,6,0,Noms locaux d'espèces par indigènes.
+78,-0.09470274476207571,0.8583705588423667,0.4,0.5,6,0,Indigènes dans contextes raciaux et coloniaux.
+79,-0.35986374603287313,0.48350590320339365,0.0,0.3333333333333333,6,0,Statut légal colonial des indigènes français
+80,-0.07583402087483379,0.8864670217829165,0.5714285714285714,0.5,6,0,Indigènes dans contextes militaires coloniaux administratifs
+81,0.22496063533292382,0.6682513707691599,0.6666666666666666,0.6666666666666666,6,0,Interaction administrative légale économique coloniale indigène
+82,0.35233213170882216,0.4933706933704178,0.5,0.6666666666666666,6,0,Jeunes indigènes en éducation et formation professionnelle
+83,0.7293249574894728,0.09998196735341663,0.8,0.8333333333333334,6,0,"Conflits coloniaux, tensions indigènes-colonisateurs historiques."
+84,-0.02179585700133868,0.9673113916611751,0.4,0.5,6,0,Tribus indigènes dans contexte colonial français.
+85,0.6039571739702033,0.20421523727499255,0.5,0.6666666666666666,6,0,Figures d'autorité indigènes en contexte colonial.
+86,-0.18569533817705186,0.7246586364960955,0.0,0.5,6,0,Organisation éducative indigènes Algérie début 20ème siècle
+87,-0.5954913341754138,0.21234656862613713,0.0,0.3333333333333333,6,0,Domination coloniale et déshumanisation des indigènes
+88,0.447213595499958,0.373900966300059,0.0,0.5,6,0,"Origine intrinsèque, métaphore conceptuelle"
+89,0.12449526117807322,0.8142218886201971,0.5714285714285714,0.5,6,0,"Contexte militaire historique, cavalerie indigène, Spahis."
+90,0.4366480030862638,0.38665397231851656,0.5,0.6666666666666666,6,0,Utilisation technique ou scientifique du terme.
+91,0.04993761694389226,0.9251558409394531,0.5714285714285714,0.5,6,0,"Interactions coloniales, gouvernance, économie, culture indigène."
+92,0.37998029782867426,0.45746128598793556,0.75,0.6666666666666666,6,0,"Contexte colonial/militaire, relations de pouvoir."
+93,0.13093073414159545,0.8047261622231061,0.4,0.5,6,0,"Colonialisme, conflit, exploitation des indigènes."
+94,-0.051231551957856,0.9232199050710349,0.4,0.5,6,0,Interactions culturelles et linguistiques spécifiques des indigènes
+95,-0.4691552259617495,0.34789924799680666,0.0,0.3333333333333333,6,0,"Réglementation coloniale maritime Afrique, passagers noirs."
+96,0.2643863511101743,0.6126607951638389,0.6666666666666666,0.6666666666666666,6,0,Restrictions légales coloniales imposées aux indigènes
+97,-0.6410159650938823,0.17017325273485898,0.0,0.16666666666666666,6,0,Contraste local-étranger dans contexte de pouvoir.
+98,0.596284793999944,0.211578994600074,0.0,0.5,6,0,Pratiques techniques indigènes traditionnelles spécifiques
+99,0.5195844985353305,0.2907588594274124,0.6666666666666666,0.6666666666666666,6,0,Contexte colonial administratif et judiciaire indigène
+100,0.34589809891083956,0.5018454262362355,0.6666666666666666,0.6666666666666666,6,0,"Droit colonial, législation spécifique aux indigènes"
+101,-0.4082482904638632,0.4216482551761939,0.0,0.3333333333333333,6,0,"Conflits historiques, rôle actif des indigènes"
+102,0.3218490338246926,0.5338961051038096,0.6666666666666666,0.6666666666666666,6,0,Espèces locales en contexte botanique/zoologique.
+103,0.3894339068089885,0.4453796730042605,0.6666666666666666,0.6666666666666666,6,0,Administration coloniale des populations indigènes
+104,0.9941348467724345,5.149915287308013e-05,1.0,1.0,6,0,"Marchés économiques indigènes, produits bruts spécifiques"
+105,-0.07881104062391009,0.8820281938486814,0.0,0.5,6,0,Régiment militaire indigène au Tchad.
+106,-0.05031546054266274,0.9245904996423889,0.4,0.5,6,0,Conflit exploration-colonisation avec indigènes résistants
+107,0.46726931351599776,0.35010796351595946,0.5,0.6666666666666666,6,0,Origine géographique et acclimatation des plantes
+108,0.35355339059327384,0.4917670010221687,0.0,0.5,6,0,"Noms locaux indigènes pour faune, flore, lieux."
+109,0.7071067811865477,0.11611652351681548,0.0,0.5,6,0,Comparaison explicite avec Européens ou pratiques européennes.
+110,-0.16196588709793425,0.759175590747353,0.4,0.5,6,0,Espèces ou produits alimentaires originaires localement.
+111,0.0,1.0,0.4,0.5,6,0,Origine locale de produits ou éléments.
+112,-0.4445004445006667,0.3771616755484611,0.5,0.3333333333333333,6,0,"Classification naturaliste, indigène vs exotique."
+113,-0.08804509063256237,0.8682736240923681,0.0,0.5,6,0,Métaphore culturelle intégration artistique économique
+114,-0.12403473458920855,0.8149020114591811,0.0,0.5,6,0,Pratiques culturelles et médicales indigènes détaillées
+115,-0.3927922024247863,0.4411128091213041,0.0,0.5,6,0,Exclusivité culturelle et contextuelle des indigènes.
+116,0.7176980864260107,0.10829261897774328,0.8571428571428571,0.8333333333333334,6,0,Gestion administrative et législative coloniale des indigènes
+117,0.6592991971697377,0.15434178571737012,0.8571428571428571,0.8333333333333334,6,0,Interaction historique indigènes-colonisateurs exploitation résistance
+118,0.0746971567068439,0.8881626575033923,0.4,0.5,6,0,Contexte colonial contrastant pratiques locales européennes.
+119,0.5146502354656655,0.296181029336144,0.0,0.5,6,0,Contexte légal et administratif indigène spécifique.
+120,-0.38673940466404655,0.44881269026248977,0.0,0.3333333333333333,6,0,"Reconnaissance officielle, statut social, succès institutionnel."
+121,0.7071067811865476,0.11611652351681565,0.8571428571428571,0.8333333333333334,6,0,"Noms locaux, contexte colonial précis."
+122,0.3118914307759027,0.5473326705081257,0.0,0.5,6,0,"Références littéraires historiques, personnes spécifiques."
+123,0.7071067811865477,0.11611652351681548,0.0,0.5,6,0,Contexte religieux et culturel distinctif.
+124,0.08543576577167614,0.8721581607066159,0.0,0.5,6,0,Analyse quantitative démographique ou médicale des indigènes
+125,0.4567978326653903,0.3624619418467874,0.5,0.6666666666666666,6,0,Conflits violents indigènes-colonisateurs en Afrique.
+126,0.7049520576969158,0.11773748560041176,0.8571428571428571,0.8333333333333334,6,0,"Contexte biologique/botanique, espèces/races locales."
+127,-0.7388664511337211,0.09338265180805548,0.0,0.3333333333333333,6,0,Origine locale comparée à alternative étrangère.
+128,-0.5446384672271748,0.26382064207994876,0.0,0.3333333333333333,6,0,Obligations économiques coloniales des indigènes
+129,0.789696793274635,0.06169057204032667,0.8571428571428571,0.8333333333333334,6,0,"Contexte colonial, interactions militaires et économiques."
+130,0.7427813527082076,0.09073317168478054,0.0,0.5,6,0,Espèces locales dans contexte écologique
+131,0.9476070829586857,0.0040456168903609604,1.0,1.0,6,0,Tribunaux indigènes dans contexte colonial spécifique
+132,0.3774147062120345,0.46075776714181693,0.5,0.6666666666666666,6,0,Arts indigènes institutionnels au Maroc
+133,-0.4685212856658182,0.3486411394402041,0.0,0.5,6,0,Pratiques locales traditionnelles contrastées avec modernité
+134,0.7067583668854311,0.11637796297772209,0.8,0.8333333333333334,6,0,Raisins/vignes indigènes en contexte viticole
+135,0.35500049889158436,0.4898687834719737,0.5,0.6666666666666666,6,0,Plantes originaires d'une région spécifique.
+136,0.6748819059987714,0.14136988275257528,0.8,0.8333333333333334,6,0,"Production locale industrielle, fabrication spécifique"
+137,0.5184758473652129,0.2919738428453545,0.0,0.5,6,0,Certificat d'études élémentaires indigènes en français
+138,0.17901700925064754,0.7343429731918121,0.5,0.6666666666666666,6,0,"Indigènes, contexte géographique, anthropologique, coutumes spécifiques"
+139,0.7427813527082077,0.09073317168478039,0.0,0.5,6,0,Comparaison juridique/morale indigène vs étranger
+140,-0.33333333333333337,0.5185185185185183,0.0,0.5,6,0,Opposition indigène vs étranger explicite.
+141,-0.31108550841912747,0.5484242619722343,0.0,0.5,6,0,Valorisation culturelle et historique des indigènes
+142,0.6990489097827481,0.12222853338726401,0.8,0.8333333333333334,6,0,Statut légal colonial d'ethnies spécifiques
+143,-0.027681826617913352,0.9584878661369683,0.5714285714285714,0.5,6,0,Adaptation géographique/culturelle de produits/concepts.
+144,0.38673940466404655,0.44881269026248977,0.5,0.6666666666666666,6,0,"""Les indigènes eux-mêmes : perception autonome coloniale"""
+145,0.4766412802163628,0.3391814094923553,0.5,0.6666666666666666,6,0,Religieuses indigènes gérant institutions éducatives religieuses
+146,-0.7883824968414552,0.062434627375009856,0.2857142857142857,0.16666666666666666,6,0,"Administration coloniale, ressources locales, gestion."
+147,0.5698028822981898,0.23779614445826566,0.5,0.6666666666666666,6,0,Termes indigènes pour éléments naturels spécifiques.
+148,-0.4507489358552089,0.36966696430406515,0.0,0.3333333333333333,6,0,"Contexte agricole, comparaison avec éléments étrangers."
+149,-0.3720364745708927,0.467692284131573,0.3333333333333333,0.3333333333333333,6,0,"Interactions coloniales historiques, contexte géographique précis"
+150,0.7014928243094253,0.12036033101732721,0.8,0.8333333333333334,6,0,"""Indigène"" pour variétés locales non humaines"
+151,0.7236272269866327,0.10401792440382393,0.5,0.6666666666666666,6,0,Transactions économiques et administratives avec indigènes
+152,0.09196009797434061,0.8624486906620591,0.5714285714285714,0.5,6,0,"Contexte religieux, économique, administratif spécifique."
+153,0.80188833032822,0.0549845839391714,0.8,0.8333333333333334,6,0,"Contexte de conflit, violence, émancipation nationale."
+154,0.027555424922739657,0.9586773240528391,0.5714285714285714,0.5,6,0,"Contexte historique, conflits, identité culturelle indigène"
+155,0.4019312523830283,0.4295688634403751,0.75,0.6666666666666666,6,0,"Stéréotypes coloniaux, perceptions négatives, références ethniques."
+156,-0.6834861261734089,0.13441720517455158,0.0,0.16666666666666666,6,0,Structures institutionnelles coloniales ou post-coloniales.
+157,-0.5333628833421288,0.27582013554098683,0.0,0.3333333333333333,6,0,"Produits alimentaires indigènes, contexte géographique spécifique"
+158,-0.4040610178208843,0.426893046152011,0.0,0.3333333333333333,6,0,Espèces végétales indigènes à une région
+159,0.438289141629688,0.3846633836248567,0.75,0.6666666666666666,6,0,"Contexte colonial, interactions politiques, figures d'autorité."
+160,0.4514661183864804,0.3688101083704941,0.5,0.6666666666666666,6,0,Méthodes indigènes de production comparées.
+161,0.04485613040162564,0.9327609312893136,0.4,0.5,6,0,Pratiques culturelles ou rôles spécifiques indigènes.
+162,0.3461938579263324,0.5014549124618921,0.6666666666666666,0.6666666666666666,6,0,Régulation coloniale alcool indigène Tonkin Hanoï
+163,0.5345224838248489,0.2745766290948478,0.5,0.6666666666666666,6,0,Impôts coloniaux sur populations indigènes
+164,0.2884082134701481,0.57938247610361,0.6666666666666666,0.6666666666666666,6,0,"Administration coloniale, contexte judiciaire et militaire"
+165,0.6761234037828133,0.1403573866189944,0.0,0.5,6,0,Naturalisation biologique d'espèces dans nouveaux environnements
+166,0.44194173824159233,0.3802457655127672,0.6666666666666666,0.6666666666666666,6,0,Interactions juridiques formelles entre indigènes
+167,0.6860090790319513,0.13240721837107292,0.8,0.8333333333333334,6,0,"Contexte militaire, organisation troupes indigènes historiques."
+168,0.7345531603115876,0.09634107616344258,0.8,0.8333333333333334,6,0,"Origine locale plantes, animaux, agriculture."
+169,0.023205666587415436,0.9651977482789704,0.4,0.5,6,0,"Produits ou espèces locales, contexte économique"
+170,-0.3538265102868382,0.49140857099418916,0.3333333333333333,0.3333333333333333,6,0,Contrôle administratif et juridique des indigènes
+171,0.04667600280093369,0.9300368411175548,0.4,0.5,6,0,Indigènes dans contextes institutionnels ou administratifs spécifiques.
+172,0.3578535898998524,0.4861328359036267,0.5,0.6666666666666666,6,0,Structures administratives impliquant groupes indigènes spécifiques
+173,-0.7419985160044522,0.09126024444398562,0.0,0.5,6,0,"Tribes indigènes spécifiques, localisation géographique précise."
+174,-0.1561737618886061,0.7676439152389031,0.5,0.3333333333333333,6,0,"Originaire, historique, lieu spécifique, statut reconnu"
+175,0.5962847939999439,0.21157899460007423,0.0,0.5,6,0,Conflit militaire indigènes-forces françaises.
+176,0.819912249915182,0.04572712986243698,0.8,0.8333333333333334,6,0,"Plantes spécifiques, contexte botanique, terminologie scientifique"
+177,0.29968567986192357,0.5639290914316645,0.6666666666666666,0.6666666666666666,6,0,"Troupes indigènes intégrées, contexte militaire colonial."
+178,-0.24828176658071047,0.6352298703317645,0.4,0.5,6,0,Intervention missionnaire sur populations indigènes
+179,0.9762956279494205,0.0008361861706832418,1.0,1.0,6,0,"Contexte juridique colonial, infractions indigènes-Européens."
+180,0.32184903382469265,0.5338961051038096,0.6666666666666666,0.6666666666666666,6,0,"Plantes locales, contexte botanique spécifique."
+181,0.4849232195773602,0.3296301464101426,0.75,0.6666666666666666,6,0,"Contexte colonial, contraste culturel, exotisme."
+182,-0.4658025705334028,0.3518292099520731,0.2857142857142857,0.16666666666666666,6,0,"Interactions coloniales, distinctions législatives et économiques."
+183,0.05050762722761051,0.9243029821524968,0.6666666666666666,0.6666666666666666,6,0,Institutions judiciaires/administratives coloniales pour indigènes
+184,0.5986843400892498,0.20926459024054303,0.5,0.6666666666666666,6,0,Formation clergé indigène dans missions catholiques
+185,-0.26919095102908275,0.6059668687835167,0.3333333333333333,0.3333333333333333,6,0,Interactions coloniales économiques et juridiques avec indigènes
+186,0.02217845610938607,0.9667377704488351,0.4,0.5,6,0,Relations coloniales et distinctions raciales explicites
+187,0.07325794357582571,0.8903096623023861,0.4,0.5,6,0,"Origine naturelle, autochtone, non introduite"
+188,0.6761234037828133,0.1403573866189944,0.0,0.5,6,0,Indigènes dans contextes militaires coloniaux spécifiques.
+189,-0.7427813527082076,0.09073317168478054,0.0,0.5,6,0,Comparaison indigènes-étrangers en compétition ou santé
+190,0.03871370611036007,0.9419584519381231,0.5714285714285714,0.5,6,0,"Conflit, pouvoir, cadre légal, indigènes."
+191,-0.05513178464199718,0.9173861099437549,0.4,0.5,6,0,Transfert de terres et exploitation coloniale.
+192,0.9284766908852597,0.007490433881274435,0.6666666666666666,0.5,6,0,"Interactions culturelles locales, perspective coloniale/exotique."
+193,0.6210590034081189,0.18818715983081602,0.75,0.6666666666666666,6,0,"Interactions coloniales, ressources, contrôle, traditions indigènes."
+194,-0.4897285216283258,0.3241339987818209,0.0,0.3333333333333333,6,0,Rôle économique-administratif indigènes en contexte colonial
+195,0.9917742433614628,0.00010121631843167453,1.0,1.0,6,0,"Tabac régional, classification administrative, France"
+196,0.4737487147400632,0.34254049812696363,0.6666666666666666,0.6666666666666666,6,0,Indigènes dans contextes militaires historiques coloniaux.
+197,0.5021395048517511,0.3100964950493093,0.5,0.6666666666666666,6,0,"Opium local, contexte médical et commercial"
+198,0.5413625284636903,0.26728568227112837,0.5,0.6666666666666666,6,0,Aliments traditionnels des cultures indigènes
+199,-0.411953237450226,0.41702550268263955,0.5,0.3333333333333333,6,0,Intégration indigène dans structures coloniales/historiques
+200,0.6485233413469749,0.1635937799559987,0.8571428571428571,0.8333333333333334,6,0,"Contexte colonial, données économiques et administratives."
+201,0.105999788000636,0.8415958224260158,0.0,0.5,6,0,Appel à l'action et expressions culturelles indigènes
+202,0.5017887080380057,0.31049010592604215,0.75,0.6666666666666666,6,0,Matériaux ou éléments culturels régionaux historiques
+203,0.6217059141274923,0.18759146780990027,0.5,0.6666666666666666,6,0,Utilisation traditionnelle de plantes par indigènes
+204,-0.5570860145311558,0.2508153597684457,0.0,0.5,6,0,Interaction explorateurs-indigènes pour connaissances géographiques/culturelles.
+205,0.9823697065156266,0.0004635008847120701,1.0,1.0,6,0,Services médicaux pour indigènes en contexte colonial
+206,-0.3982160867920021,0.43424963721136267,0.0,0.3333333333333333,6,0,Interactions culturelles et linguistiques historiques spécifiques
+207,0.5826571958969293,0.224917179385345,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial, conflit, transformation sociale."
+208,0.04356068418690319,0.9347003026420238,0.4,0.5,6,0,Rôles administratifs officiels des indigènes
+209,-0.3267967510622686,0.5272551853565239,0.0,0.3333333333333333,6,0,"Produits naturels rares, contexte économique ou médical"
+210,-0.46902858368074696,0.34804741049617066,0.0,0.3333333333333333,6,0,Interactions coloniales violentes avec indigènes.
+211,0.6932198240501809,0.12673494808180905,0.8571428571428571,0.8333333333333334,6,0,"Contexte géographique colonial, zones urbaines spécifiques"
+212,0.6630411961633478,0.15118249377729293,0.8,0.8333333333333334,6,0,"Industrie locale, production économique nationale."
+213,0.1856953381770518,0.7246586364960955,0.0,0.5,6,0,Comparaison technique races/produits indigènes et importés.
+214,-0.18569533817705175,0.7246586364960959,0.6666666666666666,0.5,6,0,"Interactions coloniales, structures administratives, objets culturels."
+215,0.6546536707079772,0.15830242337545783,0.0,0.5,6,0,Résistance historique culturelle bretonne contre envahisseurs étrangers
+216,0.03809696588797298,0.9428821977325454,0.4,0.5,6,0,"""Indigène"" en contexte botanique et géographique."
+217,0.42861989305519455,0.3964421149701154,0.5,0.6666666666666666,6,0,Origine géographique des plantes ou arbres
+218,0.7071067811865476,0.11611652351681565,0.0,0.5,6,0,"Révolution haïtienne, leaders militaires indigènes."
+219,0.4049291435992628,0.425803916819264,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial français, possession et exploitation économique."
+220,-0.11162911443718948,0.8332518368453821,0.5714285714285714,0.5,6,0,"Contexte colonial français, tensions et comparaisons sociales."
+221,-0.38827599920817424,0.44685390656962165,0.0,0.3333333333333333,6,0,Gestion administrative parallèle avec Européens.
+222,0.7071067811865476,0.11611652351681565,0.0,0.5,6,0,"Botanique, plantes dans habitat naturel, description détaillée."
+223,-0.022721405353294172,0.9659237570721116,0.5714285714285714,0.5,6,0,Aspects culturels et institutionnels autochtones spécifiques
+224,-0.7158857329864031,0.1096143930376302,0.2857142857142857,0.16666666666666666,6,0,Contexte géographique précis avec élément historique/scientifique
+225,0.4316384911847453,0.39275193255378044,0.5,0.6666666666666666,6,0,Compétence innée ou appartenance sociale authentique.
+226,-0.29851115706299686,0.5655332664528661,0.0,0.5,6,0,Indigènes influencés culturellement par Européens.
+227,0.6869498447529239,0.13166107938011326,0.5,0.6666666666666666,6,0,"Indigènes dans contexte colonial, environnemental influence."
+228,0.2921031189184931,0.5743070587774862,0.5,0.6666666666666666,6,0,Foule indigène en contexte urbain quotidien
+229,-0.9987523388778448,2.3340163226009548e-06,0.0,0.0,6,0,Contexte administratif ou économique colonial.
+230,0.0740571447916969,0.8891173645623405,0.5714285714285714,0.5,6,0,"Contexte colonial militaire, domination légale française."
+231,0.6831300510639731,0.13470193531896738,0.0,0.5,6,0,Noms vernaculaires d'éléments naturels africains
+232,-0.19166296949998202,0.716025886006149,0.0,0.3333333333333333,6,0,Statut légal colonial des indigènes.
+233,0.3042120759380364,0.5577585374216977,0.5714285714285714,0.5,6,0,"Contexte médical-administratif colonial algérien, 1909."
+234,0.02950122063825633,0.9557610068235721,0.3333333333333333,0.3333333333333333,6,0,"Contexte technique, résilience, spécificité locale."
+235,0.8440257936818616,0.03459466297174758,0.8,0.8333333333333334,6,0,Croisement et amélioration des moutons indigènes
+236,0.6201736729460423,0.18900365845517544,0.0,0.5,6,0,Comparaison indigène avec influences étrangères.
+237,-0.993904705118181,5.561570145815542e-05,0.0,0.0,6,0,Indigènes en contexte colonial administratif actif
+238,0.32327285902796604,0.5319825817045192,0.6666666666666666,0.6666666666666666,6,0,Stéréotypes négatifs dans contexte colonial comparatif
+239,0.2585438449975097,0.6208254037937592,0.5714285714285714,0.5,6,0,Relations administratives coloniales avec indigènes
+240,0.5393598899705936,0.2694125126761959,0.8,0.8333333333333334,6,0,"Domination coloniale, hiérarchie sociale, exploitation économique"
+241,0.6415002990995843,0.1697454976674104,0.5,0.6666666666666666,6,0,"Contexte économique agricole, producteurs locaux, bénéfices."
+242,0.4092548785780745,0.42039064101115087,0.6666666666666666,0.6666666666666666,6,0,Individu indigène spécifique en interaction narrative
+243,0.38467839887120736,0.4514442699148427,0.6666666666666666,0.6666666666666666,6,0,"Interaction coloniale, indigènes et Européens, domination culturelle."
+244,0.33646329245522655,0.5143501533429279,0.5,0.6666666666666666,6,0,Unités militaires indigènes numérotées en contexte colonial
+245,-0.09622504486493766,0.8561079190214128,0.4,0.5,6,0,"Tribus indigènes, régions peu explorées, sauvages."
+246,0.4307304922539481,0.3938607080248244,0.6666666666666666,0.6666666666666666,6,0,Interactions culturelles coloniales pratiques indigènes.
+247,0.4051065296900329,0.4255814851584258,0.6666666666666666,0.6666666666666666,6,0,"Confrontation, violence, stéréotypes physiques, marginalisation."
+248,-0.1690308509457033,0.7488684500235266,0.5,0.3333333333333333,6,0,"Contexte colonial, juridique, transformation culturelle."
+249,-0.06195121541733008,0.9071920598033771,0.4,0.5,6,0,Propriété foncière et exploitation économique indigène
+250,0.47308199247667815,0.343316440697283,0.6666666666666666,0.6666666666666666,6,0,"Agriculture coloniale, technologie, relations économiques."
+251,-0.2182178902359923,0.6778688286992494,0.0,0.3333333333333333,6,0,"Contexte historique roumain, princes locaux, souveraineté."
+252,-0.2716072381275556,0.6026074425756666,0.3333333333333333,0.3333333333333333,6,0,"Conflit historique indigènes-Français, relations de pouvoir."
+253,0.0710868540573022,0.8935493319647249,0.4,0.5,6,0,Origine culturelle ou géographique spécifique
+254,0.4173650061841515,0.41030363642368256,0.75,0.6666666666666666,6,0,"Contexte administratif, juridique, militaire structuré indigènes."
+255,0.7358236637186917,0.09546538576017201,0.8,0.8333333333333334,6,0,"Contexte colonial, saisie de biens indigènes."
+256,0.5834384895963933,0.2241436339760565,0.75,0.6666666666666666,6,0,Indigènes liés à régions et études spécifiques
+257,-0.1112210133250323,0.8338563883086233,0.5714285714285714,0.5,6,0,Gouvernance locale et pouvoir administratif indigène
+258,0.26413527189768704,0.6130111132661794,0.0,0.5,6,0,Contribution locale économique ou industrielle
+259,0.7380249664231081,0.0939565837741844,0.8571428571428571,0.8333333333333334,6,0,Tradition culturelle ou historique spécifique régionale
+260,-0.4216370213557839,0.4050233143090606,0.0,0.3333333333333333,6,0,"Produits locaux comparés à non-locaux, contexte économique"
+261,0.09950371902099892,0.8512370141369225,0.0,0.5,6,0,Rapports militaires pertes indigènes versus Européens
+262,-0.4271788288583806,0.3982079272287047,0.0,0.5,6,0,Pratiques agricoles traditionnelles africaines par indigènes
+263,0.49106920550555644,0.32260660696795307,0.5,0.6666666666666666,6,0,Origine locale d'éléments non humains comparés.
+264,0.7653837971759041,0.07610994734487567,0.8,0.8333333333333334,6,0,Activités pratiques et sociales simples des indigènes
+265,0.12403473458920855,0.8149020114591811,0.0,0.5,6,0,Espèces et pratiques culturelles indigènes spécifiques
+266,-0.07642227031690016,0.8855897614399164,0.5714285714285714,0.5,6,0,Administration coloniale des populations indigènes
+267,-0.47036043419179874,0.34649037019369544,0.0,0.3333333333333333,6,0,"Agriculture, exploitation, Dahomey, plantes indigènes"
+268,-0.5688833091987164,0.23872838242724956,0.0,0.3333333333333333,6,0,"Chefs indigènes, contexte colonial, Pacifique-Océanie"
+269,0.6572579720730003,0.15607683406471268,0.8,0.8333333333333334,6,0,Compétence juridique des juridictions indigènes coloniales
+270,0.44801076831712416,0.3729447854687174,0.5,0.6666666666666666,6,0,Contraste formel indigène-étranger institutionnellement
+271,0.3234983196103153,0.5316797582385551,0.5,0.6666666666666666,6,0,"Produits naturels indigènes vs exotiques, contexte commercial."
+272,-0.447213595499958,0.373900966300059,0.0,0.5,6,0,Comparaison économique indigènes vs. autres groupes
+273,-0.02385690599332349,0.9642214301124601,0.5714285714285714,0.5,6,0,"Travail colonial, comparaison indigènes-Européens"
+274,0.07662141663581952,0.8852927911420707,0.4,0.5,6,0,Interactions conflictuelles indigènes-Européens en contexte colonial
+275,2.7755575615628914e-17,1.0,0.4,0.5,6,0,"Contexte botanique, plantes, descriptions écologiques."
+276,0.7435223956449146,0.09023549623791778,0.8,0.8333333333333334,6,0,"Contexte colonial français, droits fonciers autochtones."
+277,0.5773502691896257,0.230199641080499,0.0,0.5,6,0,Origine culturelle authentique et philosophique
+278,0.7238224003182337,0.10387850553789274,0.8,0.8333333333333334,6,0,"""Indigène"" pour plantes locales, détails botaniques."
+279,0.6309069993556633,0.1792037608081702,0.8571428571428571,0.8333333333333334,6,0,Institutions coloniales françaises en Algérie
+280,0.601337794302955,0.20671732939052148,0.5,0.6666666666666666,6,0,Objets/pratiques traditionnels contrastés avec européens.
+281,0.2628647726029941,0.6147845414925414,0.6666666666666666,0.6666666666666666,6,0,Descriptions ethnographiques races tribus indigènes spécifiques.
+282,0.09245003270420496,0.8617200365535395,0.0,0.5,6,0,Actions collectives autonomes indigènes historiques/militaires
+283,0.0,1.0,0.0,0.5,6,0,"Matériaux locaux, bois ou plantes autochtones"
+284,0.4952605565436486,0.31784866740214446,0.5,0.6666666666666666,6,0,"Militaires indigènes coloniaux, législation pensions 1920s"
+285,-0.447213595499958,0.373900966300059,0.0,0.5,6,0,"Plantes locales, caractéristiques physiques détaillées"
+286,-0.08254883434129964,0.8764580051638301,0.4,0.5,6,0,Distinction stricte indigènes-colonisateurs contexte colonial
+287,0.5883484054145522,0.2193069235845365,0.5,0.6666666666666666,6,0,"Reconnaissance officielle, sélection, noblesse, responsabilité."
+288,-0.26375218935831485,0.6135457051575997,0.5,0.3333333333333333,6,0,"Contexte anthropologique historique, classification raciale/ethnique"
+289,0.37828437528656156,0.45963950795221886,0.5,0.6666666666666666,6,0,Pratiques culturelles coutumières indigènes spécifiques.
+290,0.46225016352102427,0.35601045594934216,0.5,0.6666666666666666,6,0,Origine géographique naturelle des plantes
+291,-0.6767529681839598,0.1398451434193033,0.2857142857142857,0.16666666666666666,6,0,"Contexte colonial, gestion et distinction économique."
+292,-0.447213595499958,0.373900966300059,0.0,0.5,6,0,Contexte légal ou produit naturel spécifique.
+293,-0.17364862842489184,0.7421451443758375,0.3333333333333333,0.3333333333333333,6,0,Contexte économique opposant indigènes et étrangers
+294,-0.37139067635410383,0.46852713556223086,0.0,0.5,6,0,Dynasties indigènes et résistance culturelle chinoise
+295,-0.31847288588579387,0.5384412240599014,0.0,0.3333333333333333,6,0,Distinction coloniale hiérarchique entre indigènes et Européens.
+296,-0.047351372381037815,0.9290260259266281,0.5714285714285714,0.5,6,0,Origine locale de produits ou concepts
+297,0.6000991981489792,0.20790477863371357,0.5,0.6666666666666666,6,0,Proportions indigènes dans structures organisationnelles historiques
+298,0.7034650053120128,0.11886189831209355,0.8571428571428571,0.8333333333333334,6,0,"Contexte colonial algérien, groupes ethniques spécifiques"
+299,-0.35355339059327373,0.491767001022169,0.6666666666666666,0.5,6,0,"Statut colonial, rôle spécifique, interactions économiques"
+300,0.6191162575597472,0.18998077375487926,0.8,0.8333333333333334,6,0,Concurrence économique produits locaux étrangers.
+301,0.18569533817705192,0.7246586364960955,0.0,0.5,6,0,"Sucrerie indigène, production de sucre, betterave"
+302,-0.6000991981489792,0.20790477863371357,0.0,0.3333333333333333,6,0,Opposition indigènes vs entités étrangères/coloniales.
+303,0.6368522526408346,0.17386914144774274,0.8,0.8333333333333334,6,0,Contexte militaire-résistance indigène figures historiques spécifiques
+304,0.3649324991288249,0.47690132709587657,0.5,0.6666666666666666,6,0,Produits économiques locaux et législation française
+305,-0.2199344782623433,0.6754175271449128,0.4,0.5,6,0,Authenticité historique ou culturelle locale.
+306,0.9960238411119947,2.3683328037065624e-05,1.0,1.0,6,0,"Conflit militaire, résistance indigène, contexte colonial."
+307,-0.7071067811865477,0.11611652351681548,0.0,0.5,6,0,Réglementation plantes médicinales indigènes herboristerie
+308,0.3711248973479342,0.46887085465391026,0.6666666666666666,0.6666666666666666,6,0,"Interactions culturelles, perceptions sociales des indigènes"
+309,0.5068420748999524,0.30483793638166545,0.8571428571428571,0.8333333333333334,6,0,Contexte colonial juridique comparatif avec Français.
+310,0.17983750031640158,0.7331518591682888,0.75,0.6666666666666666,6,0,"Groupes ethniques spécifiques, diversité culturelle locale"
+311,0.4598785172768365,0.35881167565057265,0.6666666666666666,0.6666666666666666,6,0,Produits locaux dans contexte économique comparatif
+312,0.7731662032576041,0.07134465254483352,0.8,0.8333333333333334,6,0,"Révolution haïtienne, Dessalines, contexte militaire"
+313,0.733728838247053,0.09691114054248991,0.8,0.8333333333333334,6,0,Origine géographique naturelle d'espèces biologiques
+314,-5.551115123125783e-17,1.0,0.4,0.5,6,0,Pratiques agricoles indigènes en contexte colonial
+315,0.9798272520870257,0.0006063050909600277,1.0,1.0,6,0,Unités militaires indigènes dans contextes coloniaux.
+316,0.6965260331469924,0.12417023554784136,0.0,0.5,6,0,Statut légal indigènes Algérie coloniale française
+317,0.7071067811865477,0.11611652351681548,0.8571428571428571,0.8333333333333334,6,0,"Contexte colonial, hiérarchie sociale, interactions politiques."
+318,0.6899341558261021,0.12930624813111113,0.8,0.8333333333333334,6,0,"Contexte juridique/social, comparaison étrangers, protection/soutien."
+319,0.3372458303647156,0.5133095395720534,0.6666666666666666,0.6666666666666666,6,0,Justice indigène dans contexte colonial français
+320,-0.1856953381770519,0.7246586364960955,0.0,0.5,6,0,Plantes ou arbres natifs à une région.
+321,0.4224870751095826,0.4039753719934146,0.5,0.6666666666666666,6,0,Interaction institutionnelle indigènes-Français sous réglementation française.
+322,0.5769143685844941,0.23063570619713147,0.5,0.6666666666666666,6,0,Ressources naturelles locales en contextes techniques.
+323,0.601337794302955,0.20671732939052148,0.5,0.6666666666666666,6,0,"Races indigènes, origines et transformations historiques"
+324,-0.5050762722761053,0.30680858549861056,0.5,0.3333333333333333,6,0,Interaction indigènes avec éléments non indigènes
+325,0.4714045207910317,0.3452714989013448,0.5,0.6666666666666666,6,0,Acclimatation d'éléments non originaires réussie.
+326,0.5104851915074736,0.30078719035180135,0.5,0.6666666666666666,6,0,"Contexte juridique colonial algérien, interactions indigènes-Européens"
+327,0.023205666587415436,0.9651977482789704,0.4,0.5,6,0,Transformation culturelle sous influence coloniale
+328,0.0,1.0,0.0,0.5,6,0,Agents administratifs indigènes en Algérie coloniale
+329,0.0735214622093808,0.8899165133405489,0.5714285714285714,0.5,6,0,Nom indigène d'objet/animal/lieu spécifique
+330,0.5617544147048537,0.24600424281550498,0.5,0.6666666666666666,6,0,"Descriptions culturelles détaillées, dynamiques de pouvoir."
+331,0.5204834387696162,0.28977510696319925,0.5,0.6666666666666666,6,0,Classification biologique d'espèces par région
+332,-0.025573858464378152,0.9616475752394905,0.5714285714285714,0.5,6,0,Origine locale contrastée avec éléments étrangers.
+333,0.29773257907842177,0.5665973372682608,0.6666666666666666,0.6666666666666666,6,0,"Rôles locaux culturels, économiques, politiques, service"
+334,0.220755392844174,0.6742459407738015,0.6666666666666666,0.6666666666666666,6,0,"Colonisation, esclavage, violence, justification morale."
+335,-0.0708485734291359,0.89390495278459,0.4,0.5,6,0,"Contexte culturel traditionnel, botanique, géographique."
+336,-0.3539463005762646,0.4912513885712549,0.0,0.3333333333333333,6,0,Interactions culturelles spécifiques des groupes indigènes.
+337,0.10783277320343847,0.8388777749227692,0.5714285714285714,0.5,6,0,"Origine géographique spécifique, historique, culturelle."
+338,0.6217059141274923,0.18759146780990027,0.5,0.6666666666666666,6,0,"Produits alimentaires locaux, substitution culinaire."
+339,0.12414088329035525,0.814745240089821,0.5714285714285714,0.5,6,0,Contextes administratifs militaires coloniaux européens.
+340,-0.28577380332470415,0.5830083919820359,0.3333333333333333,0.3333333333333333,6,0,"Contexte colonial, gestion sociale et éducative."
+341,0.04199605255658079,0.9370429547211752,0.4,0.5,6,0,"Contexte botanique/agricole, contraste local/importé"
+342,0.3597123451398442,0.4837036068559903,0.6666666666666666,0.6666666666666666,6,0,"Relations coloniales, pouvoir, pacification, perception indigènes"
+343,0.49982695967642365,0.31269469281864776,0.6666666666666666,0.6666666666666666,6,0,Authenticité culturelle locale et historique
+344,0.0,1.0,0.4,0.5,6,0,Contrainte coloniale par autorité étrangère.
+345,0.3333333333333334,0.5185185185185183,0.6666666666666666,0.6666666666666666,6,0,Interactions coloniales historiques et commerce international.
+346,0.7071067811865478,0.11611652351681531,0.8571428571428571,0.8333333333333334,6,0,Usage administratif colonial de « Garde indigène »
+347,0.534051746187234,0.27508116846768055,0.75,0.6666666666666666,6,0,"Paternalisme colonial, éducation, développement économique."
+348,0.0,1.0,0.6666666666666666,0.5,6,0,Origine géographique/culturelle spécifique d'éléments
+349,0.676481425202546,0.14006598491201785,0.8,0.8333333333333334,6,0,Distinction produits naturels locaux vs étrangers
+350,0.3452612025890617,0.5026866783899275,0.5,0.6666666666666666,6,0,Indigènes affectés par conditions géographiques spécifiques
+351,0.2683281572999749,0.6071675777128367,0.0,0.5,6,0,"Espèces végétales locales, contexte botanique surprenant"
+352,-0.3155748839276344,0.5423513321473729,0.0,0.3333333333333333,6,0,Engagement militaire indigène sous colonisation.
+353,0.41975493465635794,0.40734679155410086,0.5,0.6666666666666666,6,0,Autonomie administrative des groupes indigènes
+354,0.6260990336999411,0.18356686005527686,0.0,0.5,6,0,Histoire et pratiques culturelles indigènes comparatives
+355,0.43475559389442986,0.38895371400972545,0.5,0.6666666666666666,6,0,Comparaison statistique indigènes vs Européens en contexte colonial
+356,-0.40649388487998883,0.42384314430103354,0.3333333333333333,0.3333333333333333,6,0,Distinction économique-juridique coloniale indigènes-Européens
+357,-0.5800343853290304,0.2275217738721487,0.0,0.3333333333333333,6,0,Domination coloniale et perte culturelle indigène
+358,0.8586096637343716,0.028573557616631814,0.8,0.8333333333333334,6,0,"Indigènes musulmans, statut juridique XIXe siècle"
+359,0.531705068975115,0.27760164110039864,0.5,0.6666666666666666,6,0,Arbres locaux dans contexte botanique/forestier
+360,0.4992928860837478,0.3132958779865696,0.5,0.6666666666666666,6,0,Utilisation industrielle de plantes indigènes
+361,0.22428065200812833,0.6692198834568247,0.4,0.5,6,0,Rôles administratifs indigènes en contexte colonial
+362,0.9955653883486892,2.9455065697247577e-05,1.0,1.0,6,0,Ressources naturelles ou produits locaux spécifiques.
+363,-0.18681207278589085,0.7230416447840369,0.3333333333333333,0.3333333333333333,6,0,Populations autochtones en contexte colonial européen.
+364,0.33073039777681773,0.5219924780794949,0.6666666666666666,0.6666666666666666,6,0,Qualité intrinsèque ou origine naturelle spécifique
+365,0.5570860145311558,0.2508153597684457,0.0,0.5,6,0,Résistance indigène face à colonisation violente
+366,0.39777864208786495,0.4348018661473059,0.5,0.6666666666666666,6,0,Contexte administratif militaire colonial français formel.
+367,0.38578684310754197,0.45002835035468497,0.5,0.6666666666666666,6,0,Interactions historiques franco-indigènes en Nouvelle-France.
+368,0.0,1.0,0.0,0.5,6,0,Formation clergé local sous initiative papale.
+369,0.6981063280002046,0.12295242097782068,0.8,0.8333333333333334,6,0,Contexte juridique et citoyenneté historique des indigènes
+370,0.4472135954999579,0.373900966300059,0.5,0.6666666666666666,6,0,"Contexte botanique, plantes originaires, détails physiques."
+371,0.8451542547285167,0.03410942316740958,0.0,0.5,6,0,"Réformes éducatives coloniales, perspective paternaliste."
+372,0.5954913341754138,0.21234656862613713,0.5,0.6666666666666666,6,0,Conflit ou tension impliquant indigènes.
+373,0.3234231136765755,0.5317807643008572,0.75,0.6666666666666666,6,0,"Contexte littéraire, indigène versus transplanté."
+374,-0.46225016352102427,0.35601045594934216,0.0,0.5,6,0,Résilience locale face aux conditions environnementales.
+375,0.9981583778109127,5.0842354336181634e-06,1.0,1.0,6,0,"Plantes locales, contexte botanique scientifique."
+376,-0.4472135954999579,0.373900966300059,0.0,0.5,6,0,Interaction coloniale nécessitant langue indigène.
+377,0.07497657348060924,0.8877458796795626,0.5714285714285714,0.5,6,0,"Contexte colonial/militaire, santé ou conflit."
+378,0.10286889997472796,0.8462409299319541,0.4,0.5,6,0,Pratiques culturelles et relations coloniales françaises
+379,-0.2707651805369412,0.6037776390383176,0.0,0.3333333333333333,6,0,Expression culturelle ou artistique locale authentique
+380,0.5342054792597566,0.27491635739999837,0.5,0.6666666666666666,6,0,"Tirailleurs indigènes, contexte militaire algérien 19ème siècle"
+381,-2.7755575615628914e-17,1.0,0.4,0.5,6,0,"Espèces locales, caractéristiques physiques, distribution géographique"
+382,0.05123155195785596,0.9232199050710349,0.4,0.5,6,0,Conquête et domination des indigènes historiques
+383,0.6651600734038119,0.14940591064726993,0.8,0.8333333333333334,6,0,"Industrie sucrière locale française, 19ème siècle."
+384,0.8276408817690651,0.04200130492904198,0.8,0.8333333333333334,6,0,"Contexte militaire, grades et promotions indigènes"
+385,0.9985790401347914,3.0272558586293675e-06,1.0,1.0,6,0,Personnel indigène dans contexte administratif professionnel
+386,0.6237527748361171,0.18571181162873462,0.5,0.6666666666666666,6,0,"Plantes locales, description botanique détaillée."
+387,0.3603992792021626,0.4828067871943797,0.6666666666666666,0.6666666666666666,6,0,Exploitation traditionnelle de ressources naturelles par indigènes
+388,0.20378478648480555,0.6985542319522936,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial administratif, indigènes versus étrangers."
+389,0.0,1.0,0.0,0.5,6,0,"Références historiques indigènes, Pérou et Andes."
+390,-0.07784989441615228,0.8834610671467296,0.0,0.5,6,0,Consommation indigène influencée par présence européenne
+391,0.5345224838248489,0.2745766290948478,0.5,0.6666666666666666,6,0,Réglementation administrative du travail indigène Madagascar
+392,0.295280421716154,0.5699521952831471,0.5,0.6666666666666666,6,0,"Violence, rituels, domination, interactions hostiles."
+393,0.025474090105633312,0.9617971302828561,0.5714285714285714,0.5,6,0,Contexte colonial administratif et infrastructurel des indigènes
+394,-0.29557506819525253,0.569548799603015,0.3333333333333333,0.3333333333333333,6,0,Distinction raciale/ethnique et influence socio-économique
+395,-0.25784831403931496,0.6217991486071919,0.0,0.3333333333333333,6,0,"Indigènes tribaux, contexte fiscal-administratif"
+396,0.4889177122615932,0.3250590059846163,0.5,0.6666666666666666,6,0,"Contexte biblique, comparaison populations, jugement divin."
+397,-0.2624259659265585,0.615397346465061,0.0,0.3333333333333333,6,0,Institutions légales et administratives indigènes.
+398,0.48666426339228774,0.32763489926065514,0.0,0.5,6,0,"Travail physique exigeant, environnement naturel."
+399,-0.26726124191242445,0.6086531814853784,0.0,0.3333333333333333,6,0,Structures de pouvoir indigènes en contexte colonial
+400,0.9693306565651555,0.0013964890155812753,1.0,1.0,6,0,"Interactions coloniales, commerce maritime, soutien indigène."
+401,0.59043763497131,0.21726172818427933,0.5,0.6666666666666666,6,0,Commerce et relations internationales historiques.
+402,-0.08192319205190401,0.8773901219625868,0.0,0.5,6,0,Bois local pour objets artisanaux.
+403,-0.05670479771237433,0.9150339687010727,0.4,0.5,6,0,"Contexte colonial administratif, rôles fonctionnels indigènes."
+404,-0.5598852584152164,0.24792614899406826,0.0,0.16666666666666666,6,0,"Identité locale spécifique, intégration culturelle"
+405,-0.30151134457776363,0.5614380442505255,0.6666666666666666,0.5,6,0,Origine locale spécifique d'éléments ou personnes
+406,0.0,1.0,0.5714285714285714,0.5,6,0,Contexte historique militaire ou administratif spécifique
+407,0.6868028197434453,0.1317775674941353,0.0,0.5,6,0,Pratiques culturelles indigènes en contexte colonial.
+408,0.43905703995876133,0.3837331909012568,0.5,0.6666666666666666,6,0,Intégration administrative coloniale des Arabes en Algérie
+409,0.6736330697086079,0.1423915120936631,0.8,0.8333333333333334,6,0,Noms locaux de lieux par indigènes
+410,0.42163702135578407,0.4050233143090603,0.5,0.6666666666666666,6,0,Opposition indigène-étranger en contexte judiciaire.
+411,-0.21821789023599242,0.6778688286992494,0.0,0.5,6,0,Nom vernaculaire de plantes avec propriétés.
+412,0.16903085094570325,0.7488684500235266,0.0,0.5,6,0,Descriptions ethnographiques précises de populations indigènes.
+413,0.5299989400031802,0.279439643366463,0.6666666666666666,0.6666666666666666,6,0,"Relations coloniales franco-annamites, coopération, émancipation"
+414,0.36760731104690386,0.4734273652571378,0.0,0.5,6,0,"Administration coloniale française, interactions officielles indigènes"
+415,0.567480306535024,0.2401534878598831,0.5,0.6666666666666666,6,0,Perception sociale et culturelle des indigènes.
+416,0.391971529524109,0.4421542878596279,0.6666666666666666,0.6666666666666666,6,0,Interactions culturelles et géographiques avec étrangers
+417,0.0,1.0,0.0,0.5,6,0,Naturalisation écologique de plantes ou animaux.
+418,0.7777137710478191,0.06862504031773277,0.8571428571428571,0.8333333333333334,6,0,Interactions coloniales administratives et culturelles spécifiques.
+419,-0.22703830459325,0.6652940458058273,0.4,0.5,6,0,"Contexte colonial, exploitation, contrôle externe."
+420,0.25506909056931115,0.6256937923934687,0.5,0.6666666666666666,6,0,Éléments culturels locaux comparés à étrangers.
+421,0.6897007348075543,0.12948977023232572,0.8571428571428571,0.8333333333333334,6,0,Entités locales dans contextes économiques ou politiques
+422,0.3244933745945567,0.530343857206757,0.5,0.6666666666666666,6,0,"Conflit militaire, perception hostile des indigènes"
+423,-0.08192319205190407,0.8773901219625865,0.4,0.5,6,0,"Interactions culturelles, sociales, botaniques avec indigènes."
+424,-0.6298897789321867,0.18012322296883398,0.0,0.16666666666666666,6,0,Participation indigène à changements historiques organisés
+425,0.5345224838248489,0.2745766290948478,0.5,0.6666666666666666,6,0,"Différences pratiques indigènes vs Européens, contexte colonial."
+426,0.3679118318593456,0.4730323623782576,0.5,0.6666666666666666,6,0,« Titre indigène » dans contexte militaire/administratif.
+427,0.4271788288583806,0.3982079272287047,0.0,0.5,6,0,Contexte juridique et culturel égyptien spécifique.
+428,0.3448627709002392,0.5032131653534204,0.6666666666666666,0.6666666666666666,6,0,Traditions culturelles et économiques nord-africaines
+429,-0.21821789023599253,0.677868828699249,0.0,0.5,6,0,Espèces indigènes dans contexte écologique/historique.
+430,-0.049206783130512216,0.9262493976809029,0.4,0.5,6,0,Contexte culturel et géographique indigène spécifique
+431,0.27877150446555876,0.5926749051643249,0.6666666666666666,0.6666666666666666,6,0,Interaction historique-culturelle avec noms locaux spécifiques.
+432,0.47485163204385844,0.341258291836721,0.5,0.6666666666666666,6,0,"Contexte botanique, flore indigène, habitat naturel."
+433,0.4382083728924971,0.3847612678260158,0.75,0.6666666666666666,6,0,"Contexte colonial, conflit, transformation sociale-économique."
+434,0.47131392705121355,0.3453771974008127,0.5,0.6666666666666666,6,0,"Espèces locales, comparaison, naturalisation, géographie."
+435,0.40659515236656985,0.4237163490704532,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial, contraste économique/social européen."
+436,0.36380343755449945,0.47837007115347513,0.5,0.6666666666666666,6,0,Puits d'eau dans oasis désertiques
+437,0.6079936912365154,0.2003838209974077,0.5,0.6666666666666666,6,0,Politiques coloniales d'intégration administrative et militaire
+438,-0.2425356250363329,0.6433299631818634,0.0,0.5,6,0,Contexte hospitalier colonial français spécifique.
+439,-0.8183916537036726,0.04647752102650298,0.0,0.16666666666666666,6,0,Compétence indigène dans contexte colonial spécifique.
+440,0.615567840953492,0.19327488108225085,0.8,0.8333333333333334,6,0,Rôle institutionnel ou économique précis des indigènes
+441,0.21821789023599247,0.677868828699249,0.0,0.5,6,0,"Interactions pacifiques, échanges culturels, cadre rural."
+442,0.686946449759078,0.13166376873591057,0.8,0.8333333333333334,6,0,Origine géographique naturelle d'espèces biologiques
+443,0.23011746596041724,0.6609166267445405,0.6666666666666666,0.6666666666666666,6,0,Domination coloniale militaire/administrative en Algérie.
+444,-0.6260990336999412,0.18356686005527667,0.0,0.5,6,0,Vulnérabilité indigène contexte colonial alimentation.
+445,0.2726739405785884,0.6011258898267459,0.6666666666666666,0.6666666666666666,6,0,"Origine locale d'animaux, plantes, produits."
+446,0.4472135954999581,0.3739009663000587,0.0,0.5,6,0,"Produits naturels indigènes, distinction exotique."
+447,0.5354632267566767,0.2735694002319992,0.5,0.6666666666666666,6,0,Espèces locales comparées à non locales.
+448,0.5184758473652127,0.2919738428453547,0.5,0.6666666666666666,6,0,Commerce local et acteurs économiques historiques
+449,-0.32507976851104803,0.5295570511591209,0.0,0.3333333333333333,6,0,Mobilisation politique indigène anti-impérialiste révolutionnaire
+450,0.3206117249455934,0.5355605532672655,0.6666666666666666,0.6666666666666666,6,0,"""Indigènes dans contextes administratifs institutionnels"""
+451,0.7322418368317118,0.09794326594386529,0.8,0.8333333333333334,6,0,Contexte social et politique des indigènes
+452,0.5123902392638664,0.2986770704124676,0.5,0.6666666666666666,6,0,Production de sucre indigène à partir de betterave
+453,0.1961161351381841,0.7095972614299966,0.0,0.5,6,0,Nomination locale d'objets ou animaux spécifiques
+454,0.39223227027636814,0.44182330768363004,0.0,0.5,6,0,"Contexte botanique, propriétés médicinales ou gustatives."
+455,0.6857453859835134,0.13261668521824102,0.8,0.8333333333333334,6,0,"Plantes ou produits locaux, agriculture, botanique."
+456,0.04735137238103784,0.9290260259266281,0.4,0.5,6,0,Interactions coloniales spécifiques avec indigènes locaux.
+457,0.5570860145311557,0.2508153597684457,0.0,0.5,6,0,Prêtres indigènes dans missions catholiques asiatiques.
+458,-0.1490711984999861,0.7780495489000205,0.0,0.5,6,0,Espèces locales en contexte scientifique/naturaliste.
+459,0.14907119849998596,0.7780495489000209,0.0,0.5,6,0,Pratiques artisanales traditionnelles indigènes détaillées
+460,0.7381017469576844,0.09390415082918643,0.8,0.8333333333333334,6,0,Contexte colonial agricole et économique tunisien.
+461,0.5709136102183887,0.23667204664814104,0.8571428571428571,0.8333333333333334,6,0,"Contexte naturel, termes autochtones, pratiques traditionnelles."
+462,0.7276068751089989,0.10119150721829553,0.8,0.8333333333333334,6,0,Administration coloniale des structures indigènes
+463,-0.4089443664858903,0.42077845702510425,0.3333333333333333,0.3333333333333333,6,0,"Conflit, colonisation, résistance, propriété, exploitation."
+464,-0.5100613704506707,0.30125739088668285,0.0,0.3333333333333333,6,0,Contexte historique militaire et géographique spécifique.
+465,0.4472135954999581,0.3739009663000587,0.0,0.5,6,0,Pratiques funéraires indigènes et inhumations spécifiques.
+466,0.570323432101734,0.2372690659392132,0.5,0.6666666666666666,6,0,Pratiques artisanales indigènes utilisant ressources naturelles locales
+467,0.1466471150213533,0.7816061781671244,0.5,0.6666666666666666,6,0,Conflit armé indigène contre forces coloniales
+468,0.12403473458920855,0.8149020114591811,0.0,0.5,6,0,Pratiques agricoles et culturelles locales traditionnelles.
+469,0.7543033377319208,0.08313430801466018,0.8,0.8333333333333334,6,0,Législation coloniale sur les indigènes
+470,0.196116135138184,0.7095972614299969,0.6666666666666666,0.6666666666666666,6,0,Éducation administrative des indigènes algériens
+471,0.4888129019342116,0.32517864865719465,0.5,0.6666666666666666,6,0,Démographie indigène par religion et ethnie.
+472,0.39223227027636814,0.44182330768363004,0.5,0.6666666666666666,6,0,Exploitation économique et oppression coloniale des indigènes
+473,-0.3149803143455109,0.5431545362012355,0.3333333333333333,0.3333333333333333,6,0,"Conflit, collaboration, ou contexte botanique spécifique."
+474,-0.19611613513818407,0.7095972614299966,0.3333333333333333,0.3333333333333333,6,0,Structures administratives et culturelles coloniales indigènes
+475,0.5659164584181103,0.24174592172736864,0.5,0.6666666666666666,6,0,Comparaison administrative indigènes/non-indigènes France/colonies
+476,-0.29962570166335345,0.5640109802479633,0.3333333333333333,0.3333333333333333,6,0,
+477,0.08144629623753682,0.8781006926129734,0.5714285714285714,0.5,6,0,Classification coloniale ou militaire des indigènes.
+478,0.44484736939544506,0.37674418694200174,0.75,0.6666666666666666,6,0,Terminologie et rôles culturels géographiquement spécifiques
+479,0.9806134157345243,0.0005601163507060853,1.0,1.0,6,0,"Produits locaux, ressources naturelles, inventaire économique"
+480,0.42717882885838054,0.3982079272287047,0.0,0.5,6,0,Mariages mixtes et interactions culturelles historiques
+481,0.23492049286746988,0.6541016142547407,0.4,0.5,6,0,"Authenticité culturelle, opposition influences extérieures"
+482,0.7445694406464906,0.08953440184624921,0.8571428571428571,0.8333333333333334,6,0,"Contexte administratif colonial, procédures officielles, rôles spécifiques"
+483,0.47733437050543803,0.3383783092361334,0.8,0.8333333333333334,6,0,"Contexte colonial/militaire, opposition aux Européens."
+484,0.4283645641073089,0.3967547886566997,0.5,0.6666666666666666,6,0,"Contexte colonial, séparation européenne-indigène infrastructurelle"
+485,0.2683281572999749,0.6071675777128367,0.0,0.5,6,0,"Produits naturels régionaux, botanique, réglementation."
+486,0.2920754301067413,0.5743450485411233,0.6666666666666666,0.6666666666666666,6,0,"Récits d'exploration, interactions culturelles, paysages exotiques."
+487,-0.33333333333333337,0.5185185185185183,0.0,0.5,6,0,Comparaison coloniale entre groupes indigènes.
+488,0.314465003992659,0.5438509392054995,0.6666666666666666,0.6666666666666666,6,0,Police indigène dans contexte colonial/post-colonial
+489,0.7038556983051977,0.11856602918661041,0.8,0.8333333333333334,6,0,Tribunaux indigènes et compétences judiciaires spécifiques
+490,0.6739871475620768,0.14210153299275105,0.5,0.6666666666666666,6,0,Indigènes dans contextes administratifs et comparatifs.
+491,-0.7084919084320763,0.11507971437013226,0.0,0.16666666666666666,6,0,Indigènes dans structures formelles coloniales ou impériales.
+492,-0.5674803065350241,0.24015348785988289,0.0,0.3333333333333333,6,0,"Contexte culturel, historique, artistique spécifique."
+493,0.4370866917665225,0.386121526936869,0.75,0.6666666666666666,6,0,"Contexte administratif colonial, titres officiels, Algérie-Tunisie"
+494,0.7071067811865476,0.11611652351681565,0.0,0.5,6,0,Produits alimentaires locaux avec noms spécifiques
+495,0.025278006958277977,0.9620910656031446,0.4,0.5,6,0,Vulnérabilité indigène face à influences extérieures.
+496,0.9894056792048982,0.00016776489832474647,1.0,1.0,6,0,Espèces végétales ou maladies spécifiques climats
+497,0.5780196610309059,0.2295306374425629,0.8,0.8333333333333334,6,0,"Plantes locales, noms scientifiques, caractéristiques botaniques."
+498,0.4748516320438584,0.3412582918367213,0.75,0.6666666666666666,6,0,"Interactions coloniales, terminologie locale, tensions historiques."
+499,0.447213595499958,0.373900966300059,0.0,0.5,6,0,"Noms originels historiques, étymologie, contrastes culturels."
+500,0.679659059783796,0.13749105273556694,0.5,0.6666666666666666,6,0,"Contexte économique, comparaison produits indigènes et étrangers"
+501,0.7017565899639198,0.12015945127639208,0.8571428571428571,0.8333333333333334,6,0,"Contexte colonial français, assimilation et administration."
+502,0.11928452996661751,0.8219218428557555,0.4,0.5,6,0,"Contexte économique agricole, typologie produits/populations"
+503,-0.5980891671216751,0.20983768222875684,0.0,0.3333333333333333,6,0,"Contexte juridique formel, sanctions légales pour indigènes"
+504,0.3866945956182655,0.448869852039388,0.75,0.6666666666666666,6,0,"Interactions culturelles historiques, influences coloniales."
+505,0.6454972243679029,0.16623275185812544,0.5,0.6666666666666666,6,0,Produits ou ressources économiques locaux.
+506,-0.7698003589195012,0.07338845685615603,0.0,0.5,6,0,"Conflit historique indigènes-colonisateurs, résistance émotionnelle."
+507,0.42171809760330886,0.4049233244280695,0.5,0.6666666666666666,6,0,Dirigeants locaux historiques en contexte géopolitique.
+508,0.7427813527082077,0.09073317168478039,0.0,0.5,6,0,Adaptation positive des technologies européennes par indigènes
+509,0.35500049889158425,0.48986878347197405,0.5,0.6666666666666666,6,0,"Conflits coloniaux Afrique du Sud, résistance indigène."
+510,0.29631887899487697,0.5685308030245328,0.4,0.5,6,0,Indigènes dans contextes juridiques et administratifs.
+511,0.09245003270420496,0.8617200365535395,0.0,0.5,6,0,Transformation culturelle par assimilation locale.
+512,-0.18569533817705186,0.7246586364960955,0.0,0.5,6,0,"Comparaison linguistique, administrative, historique avec étrangers."
+513,0.22056438662814234,0.6745184997325251,0.0,0.5,6,0,Conflit colonial militaire entre Français et indigènes
+514,-0.023459704442429424,0.9648168989512272,0.4,0.5,6,0,Administration juridique coloniale des indigènes.
+515,0.35771788508272395,0.48631033563950055,0.6666666666666666,0.6666666666666666,6,0,"Contexte médical pathologique indigènes, vocabulaire scientifique"
+516,-0.7608859102526823,0.07892758232570057,0.0,0.16666666666666666,6,0,Structures locales administratives ou techniques spécifiques
+517,0.022581937608857267,0.9661328513474507,0.5714285714285714,0.5,6,0,Contexte administratif colonial Indochine française.
+518,0.6546536707079772,0.15830242337545783,0.0,0.5,6,0,Produits locaux soumis à taxation économique
+519,0.43322428885910597,0.3908180454312571,0.5,0.6666666666666666,6,0,Usage métaphorique culturel du terme indigène.
+520,0.5257856140532875,0.2839984300093457,0.5,0.6666666666666666,6,0,Contexte colonial administratif et juridique spécifique
+521,0.39223227027636814,0.44182330768363004,0.0,0.5,6,0,"Sucre de betterave français, 19ème siècle."
+522,0.5895063447465634,0.2181724363999479,0.0,0.5,6,0,"Pratiques musulmanes, interactions légales, caractéristiques médicales."
+523,-0.38014296063485276,0.45725253597220444,0.0,0.3333333333333333,6,0,"Coutumes, comportements spécifiques des indigènes"
+524,0.4472135954999581,0.3739009663000587,0.6666666666666666,0.5,6,0,"Contexte colonial, comparaisons ethniques, termes administratifs."
+525,0.13957263155977065,0.7920005263443677,0.4,0.5,6,0,Contexte éducatif et administratif colonial spécifique
+526,0.2901778784012158,0.5769501355250196,0.5,0.6666666666666666,6,0,"Interactions maritimes coloniales, premières rencontres culturelles."
+527,-0.6776585872776164,0.13910970065907513,0.0,0.16666666666666666,6,0,Comparaison indigène-exotique ou locale-importée.
+528,0.5477225575051661,0.26057454736802577,0.5,0.6666666666666666,6,0,"Plantes médicinales indigènes, ouvrages 19ème siècle"
+529,-0.3831070831790977,0.45345388720633617,0.3333333333333333,0.3333333333333333,6,0,"Contexte colonial, contraste modernité-tradition."
+530,0.3356243110397689,0.5154665118782186,0.5,0.6666666666666666,6,0,Caractéristiques utilitaires indigènes en agriculture/botanique.
+531,0.48524747941547297,0.32925820795913563,0.5,0.6666666666666666,6,0,Originalité culturelle ou artistique locale
+532,-0.27154286423622187,0.602696881760409,0.0,0.3333333333333333,6,0,Produits alimentaires locaux et botaniques
+533,-0.1856953381770519,0.7246586364960955,0.0,0.5,6,0,Comparaison économique/professionnelle entre indigènes et étrangers.
+534,0.447213595499958,0.373900966300059,0.0,0.5,6,0,"Plantes médicinales locales, propriétés spécifiques."
+535,0.5698028822981898,0.23779614445826566,0.0,0.5,6,0,"Conflits historiques indigènes-colonisateurs, figures européennes"
+536,0.3508782949819599,0.495281849554844,0.5,0.6666666666666666,6,0,Produits locaux comparés à étrangers.
+537,0.306384102065444,0.554804171319956,0.5,0.6666666666666666,6,0,Origine géographique naturelle d'espèces ou maladies
+538,0.4585852474562929,0.3603424659944411,0.75,0.6666666666666666,6,0,"Contexte colonial, transformation par puissance extérieure."
+539,0.3369935737810383,0.5136449211204257,0.5,0.6666666666666666,6,0,Statut légal colonial des indigènes français.
+540,0.7762459638285144,0.06949758295617836,0.8,0.8333333333333334,6,0,Agents indigènes en contexte administratif hiérarchique
+541,0.38569460791993515,0.4501461168083568,0.75,0.6666666666666666,6,0,"Indigènes géographiquement spécifiques, contexte colonial."
+542,-0.8516583167045442,0.031375734220153835,0.0,0.5,6,0,Pratiques culturelles et artisanat indigène spécifique
+543,0.1445049152577264,0.7847513791288622,0.5714285714285714,0.5,6,0,Documents historiques ou littéraires indigènes
+544,-0.12837404149077425,0.8084967330958324,0.4,0.5,6,0,Urbanisme colonial et droits des indigènes
+545,-0.4994842701051499,0.31308039554611355,0.0,0.3333333333333333,6,0,Aspects légaux des indigènes en contexte colonial
+546,-0.50709255283711,0.30455878468053493,0.0,0.5,6,0,Composition ethnique historique des populations indigènes
+547,-0.5054903606715575,0.30634603504060726,0.0,0.3333333333333333,6,0,Distinction économique ou sociale des indigènes.
+548,0.13736056394868917,0.7952550084538406,0.0,0.5,6,0,Médicaments locaux dans contexte médical/pharmacologique
+549,0.743295496217147,0.09038774908987726,0.8,0.8333333333333334,6,0,"Espèces naturelles, contexte écologique, biogéographique."
+550,0.20412414523193156,0.6980663685111013,0.6666666666666666,0.6666666666666666,6,0,"Conflit colonial, intervention extérieure, perspective coloniale."
+551,-0.5038710255240864,0.3081563639177053,0.0,0.16666666666666666,6,0,"Conflit culturel/religieux, indigènes vs Européens."
+552,0.17812181099872787,0.7356429526540619,0.5714285714285714,0.5,6,0,"Contexte colonial administratif, comparaison Européens-indigènes."
+553,-0.3922322702763681,0.44182330768363004,0.0,0.5,6,0,Croyances et légendes culturelles indigènes spécifiques
+554,0.7427813527082077,0.09073317168478039,0.0,0.5,6,0,"Produits locaux, fabrication régionale spécifique."
+555,0.18569533817705183,0.7246586364960955,0.0,0.5,6,0,Administration coloniale militaire en Afrique du Nord
+556,0.4685212856658183,0.34864113944020386,0.75,0.6666666666666666,6,0,Indigènes en contexte militaire colonial français
+557,-0.15833394419077787,0.7644837710365588,0.4,0.5,6,0,Origine locale sans influence étrangère
+558,0.7358236637186916,0.09546538576017216,0.8,0.8333333333333334,6,0,Confrontation culturelle et résistance indigène.
+559,0.5962847939999439,0.21157899460007423,0.0,0.5,6,0,« Description géographique de villages indigènes spécifiques »
+560,,,0.0,0.5,6,0,"Animaux indigènes, caractéristiques physiques, croisement"
+561,0.8017837257372733,0.05504060895249942,0.0,0.5,6,0,"Contexte historique russe, figures locales importantes"
+562,0.7061063938223444,0.11686787502144115,0.8,0.8333333333333334,6,0,Coopération institutionnelle colons-indigènes développement économique
+563,0.4622501635210244,0.35601045594934216,0.0,0.5,6,0,Conversion religieuse indigènes par missionnaires européens
+564,0.7276068751089986,0.1011915072182957,0.6666666666666666,0.5,6,0,Éléments locaux authentiques contrastant avec étrangers.
+565,0.42574370991846944,0.39996909933808794,0.6666666666666666,0.6666666666666666,6,0,Contexte juridique administratif actes indigènes.
+566,0.2020050626594551,0.701113919883718,0.4,0.5,6,0,Politiques coloniales administratives sur indigènes
+567,0.4865092359773212,0.32781238239660876,0.75,0.6666666666666666,6,0,"Authenticité locale, origine spécifique, éléments natifs."
+568,0.3538265102868382,0.49140857099418916,0.6666666666666666,0.6666666666666666,6,0,"""Race indigène, contexte historique, comparaisons raciales"""
+569,0.23643312187173016,0.651958696375155,0.0,0.5,6,0,Pratiques culturelles indigènes en contexte colonial.
+570,0.7633986120456708,0.07734782667857981,0.8,0.8333333333333334,6,0,Pratiques agricoles et matérielles traditionnelles indigènes
+571,0.05956086839320314,0.9107643434124694,0.5714285714285714,0.5,6,0,"""Culture agricole traditionnelle locale"""
+572,0.6281087071082565,0.18173783498636722,0.5,0.6666666666666666,6,0,Comparaison indigène vs non-indigène contextes
+573,0.18043874177926347,0.7322792621972789,0.5,0.6666666666666666,6,0,Gouvernance coloniale et administration indigène
+574,0.6948767979207032,0.12544674191533106,0.8571428571428571,0.8333333333333334,6,0,"Administration coloniale, rôles et structures spécifiques"
+575,0.3578535898998524,0.4861328359036267,0.5,0.6666666666666666,6,0,"Plantes locales, contexte botanique ou économique."
+576,0.5680749627880229,0.2395490537977065,0.8571428571428571,0.8333333333333334,6,0,Contexte matériel et culturel non humain local.
+577,-0.6261879661168146,0.18348576111914205,0.2857142857142857,0.16666666666666666,6,0,"Origine géographique précise, contexte technique."
+578,0.40171736829204086,0.4298378880969021,0.6666666666666666,0.6666666666666666,6,0,Noms et termes indigènes spécifiques
+579,-0.3744638735912176,0.46455844955200476,0.3333333333333333,0.3333333333333333,6,0,Statut formel indigène dans structures autoritaires.
+580,0.5363499164507368,0.27262134618324735,0.75,0.6666666666666666,6,0,Contexte colonial économique et territorial.
+581,0.4897285216283258,0.3241339987818209,0.5,0.6666666666666666,6,0,Pratiques locales de subsistance et interactions pacifiques.
+582,0.5146502354656655,0.296181029336144,0.0,0.5,6,0,"""Les indigènes eux-mêmes"" en contexte comparatif."
+583,-5.551115123125783e-17,1.0,0.4,0.5,6,0,Influence historique sur culture indigène
+584,0.6516311192522112,0.16090213915387372,0.5,0.6666666666666666,6,0,Interaction économique supervisée avec indigènes.
+585,0.32507976851104803,0.5295570511591209,0.5,0.6666666666666666,6,0,Influence linguistique et étymologique indigène spécifique.
+586,2.7755575615628914e-17,1.0,0.4,0.5,6,0,Classification administrative coloniale algérienne
+587,0.29974293434196575,0.5638509243519616,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial administratif, distinction indigènes/Européens"
+588,0.7525489793561388,0.08427205003599804,0.8,0.8333333333333334,6,0,"Démographie coloniale historique, populations indigènes."
+589,0.7960297521679913,0.05816281797945582,0.8,0.8333333333333334,6,0,"Contexte colonial, militaire, administratif, légal."
+590,0.6751492859105924,0.14115155879015712,0.8571428571428571,0.8333333333333334,6,0,Contexte militaire ou administratif colonial spécifique
+591,-0.04381079543383237,0.9343258517584971,0.4,0.5,6,0,"Pratiques culturelles traditionnelles, aspects mystiques, narratifs."
+592,0.24120907566221095,0.6452033777986752,0.5,0.6666666666666666,6,0,Structures sociales indigènes en contexte colonial.
+593,0.40132208141082526,0.43033522731734697,0.75,0.6666666666666666,6,0,Contexte colonial administratif et militaire spécifique.
+594,0.16426031247063638,0.7558255220187758,0.4,0.5,6,0,Interactions administratives coloniales avec indigènes
+595,-0.45858524745629303,0.3603424659944411,0.5,0.3333333333333333,6,0,Contexte colonial historique juridique économique militaire
+596,0.0,1.0,0.4,0.5,6,0,"Pratiques indigènes spécifiques, interaction avec systèmes extérieurs"
+597,0.39791858180796824,0.4346251817943083,0.5,0.6666666666666666,6,0,Contraste explicite indigène versus étranger/exotique
+598,0.24253562503633305,0.6433299631818631,0.0,0.5,6,0,"« Perspective locale spécifique, point de vue indigène »"
+599,-0.3922322702763681,0.44182330768363004,0.0,0.5,6,0,Structures administratives coloniales impliquant indigènes
+600,0.4677071733467427,0.34959471206468606,0.5,0.6666666666666666,6,0,"Plantes indigènes, noms locaux, contexte économique"
+601,-0.4480107683171241,0.3729447854687174,0.0,0.3333333333333333,6,0,Régulation législative coloniale des indigènes.
+602,-0.33202613875521797,0.5202622978846656,0.3333333333333333,0.3333333333333333,6,0,Interaction coloniale avec structures indigènes
+603,-0.3202563076101743,0.5360389389750039,0.0,0.5,6,0,Comparaison scientifique indigène vs non-indigène.
+604,0.06570043198176044,0.9015911515208451,0.4,0.5,6,0,Transmetteur local de savoirs historiques/culturels
+605,-0.4603482701187489,0.3582562194702209,0.3333333333333333,0.3333333333333333,6,0,Classification institutionnelle d'éléments indigènes
+606,-0.48488113787642706,0.3296784269482623,0.5,0.3333333333333333,6,0,"Contexte colonial, domination, groupes ethniques spécifiques"
+607,0.5698028822981899,0.23779614445826566,0.0,0.5,6,0,Structures indigènes sous contrôle colonial formel
+608,0.12403473458920841,0.8149020114591814,0.0,0.5,6,0,Utilisation éducative de la langue indigène.
+609,-0.3713906763541039,0.4685271355622306,0.0,0.5,6,0,Coutumes indigènes agricoles au Sénégal.
+610,0.2927700218845599,0.5733922538253555,0.6666666666666666,0.5,6,0,"Interactions coloniales, perception indigène, contexte missionnaire."
+611,0.3955623039917372,0.43760326916183095,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial, structures politiques ou historiques locales."
+612,0.18569533817705183,0.7246586364960955,0.0,0.5,6,0,"Origine naturelle d'espèces vivantes, non introduites"
+613,0.023938794927456042,0.9640986668623768,0.5714285714285714,0.5,6,0,"Contexte colonial indien, interactions historiques spécifiques"
+614,0.45588330880750666,0.36354805765215675,0.75,0.6666666666666666,6,0,"Administration coloniale, juridique, économique indigène"
+615,0.33031394744601233,0.5225489109504438,0.5,0.6666666666666666,6,0,Rôles professionnels indigènes en contexte colonial
+616,-0.3436716983117354,0.5047880252673419,0.3333333333333333,0.3333333333333333,6,0,"Contexte colonial, exploration, perceptions européennes stéréotypées."
+617,0.48666426339228774,0.32763489926065514,0.0,0.5,6,0,Transformation culturelle et socio-économique des indigènes
+618,-0.28941438070815306,0.5779992021469152,0.3333333333333333,0.3333333333333333,6,0,Opposition indigène-étranger en contexte légal/social
+619,0.40160966445124946,0.42997337948854913,0.5,0.6666666666666666,6,0,Travail manuel traditionnel indigène environnemental
+620,0.732101925434405,0.09804062839676489,0.8,0.8333333333333334,6,0,"Originaire, naturel, local, biologique, régional."
+621,0.5117663157191591,0.2993675439559133,0.6666666666666666,0.6666666666666666,6,0,Législation coloniale concernant populations indigènes
+622,0.5393193716300063,0.2694556107848354,0.5,0.6666666666666666,6,0,Contexte botanique/médical traditionnel avec terminologie technique.
+623,0.5054903606715575,0.30634603504060726,0.5,0.6666666666666666,6,0,"Indigènes musulmans, contexte juridique et religieux islamique."
+624,0.447213595499958,0.373900966300059,0.0,0.5,6,0,"Contraste culturel explicite, coutumes indigènes spécifiques."
+625,-0.42915087305247884,0.395792149811959,0.5,0.3333333333333333,6,0,"Distinction comparative géographique, zoologique, ethnique."
+626,0.4325904563487002,0.39159061548618485,0.5,0.6666666666666666,6,0,"Espèces botaniques locales, contexte scientifique/historique"
+627,-0.4472135954999581,0.3739009663000587,0.0,0.5,6,0,Description botanique plantes indigènes Europe.
+628,0.972271824131503,0.0011426181774013481,1.0,1.0,6,0,"Contexte militaire colonial, cavalerie indigène, 19ème siècle"
+629,0.731200017332149,0.09866928556581653,0.8,0.8333333333333334,6,0,Produits locaux naturels ou traditionnels.
+630,-0.5501606429153585,0.25801944864194964,0.0,0.3333333333333333,6,0,Indigènes en contexte colonial économique subordonné
+631,-0.2205643866281424,0.6745184997325251,0.0,0.5,6,0,Croisement biologique indigène-non-indigène.
+632,0.46452129753512694,0.35333526481810484,0.5,0.6666666666666666,6,0,"Contexte institutionnel, légal ou administratif formel."
+633,-2.7755575615628914e-17,1.0,0.5714285714285714,0.5,6,0,Références culturelles/politiques spécifiques des indigènes.
+634,0.5232045649263553,0.28680495060318056,0.5,0.6666666666666666,6,0,Contexte économique et culturel des indigènes.
+635,0.4271788288583806,0.3982079272287047,0.0,0.5,6,0,Utilisation indigène d'infrastructures coloniales.
+636,0.7243770535799449,0.10348274970883788,0.8,0.8333333333333334,6,0,Origine locale d'objets ou espèces.
+637,0.5663150138196105,0.24133968638642384,0.5,0.6666666666666666,6,0,Leadership militaire indigène en contexte colonial français
+638,0.34075047748578413,0.5086567040190924,0.6666666666666666,0.6666666666666666,6,0,Authenticité culturelle contrastée avec influences étrangères
+639,-0.060229307885911854,0.9097652811721343,0.4,0.5,6,0,Comparaison économique/juridique indigènes vs étrangers.
+640,0.49872934991536755,0.31393069123317463,0.5,0.6666666666666666,6,0,"""Descriptions botaniques d'arbustes indigènes locaux"""
+641,0.08543576577167615,0.8721581607066159,0.0,0.5,6,0,Pratiques traditionnelles indigènes en contexte colonial.
+642,0.6279858256227594,0.1818494525337291,0.8,0.8333333333333334,6,0,"Espèces naturelles, origine géographique, contexte scientifique."
+643,0.32288592281010986,0.5325024032504685,0.4,0.5,6,0,Dispositions légales discriminatoires envers indigènes.
+644,-0.7071067811865478,0.11611652351681531,0.0,0.5,6,0,Souveraineté et interaction formelle indigène
+645,0.21619379650142861,0.6807617280743474,0.5,0.6666666666666666,6,0,Cadre colonial administratif et législatif des indigènes
+646,0.7792211680534064,0.06773419534688262,0.8,0.8333333333333334,6,0,Origine géographique d'éléments naturels ou culturels
+647,0.5191741316511651,0.29120836204497275,0.5,0.6666666666666666,6,0,"Espèces locales biologiques, contexte scientifique."
+648,0.113960576459638,0.8297991390537873,0.0,0.5,6,0,Indigènes comme serviteurs/guides en contexte colonial.
+649,-0.34437841283691145,0.5038534164532077,0.0,0.3333333333333333,6,0,Juridiction indigène sous supervision européenne
+650,-0.09759000729485345,0.8540797033781715,0.0,0.5,6,0,Croyances spirituelles indigènes liées à la nature
+651,-0.9877295966495896,0.00022492046443978907,0.0,0.0,6,0,Observation scientifique ou administration locale indigènes
+652,0.447213595499958,0.373900966300059,0.0,0.5,6,0,Description positive indigènes lors d'événements spéciaux
+653,0.10690449676496977,0.8402541376912024,0.4,0.5,6,0,"Contexte colonial économique, exploitation, comparaison importations"
+654,-0.40422604172722165,0.4266859408182543,0.0,0.5,6,0,Interactions économiques entre Européens et indigènes.
+655,-0.7427813527082076,0.09073317168478054,0.0,0.5,6,0,Pratiques alimentaires traditionnelles des indigènes
+656,0.19586865344908042,0.7099542241836597,0.5714285714285714,0.5,6,0,Production locale de ressources naturelles quantifiée
+657,0.18144368465060579,0.7308212003434429,0.6666666666666666,0.6666666666666666,6,0,Interactions coloniales économiques/militaires historiques.
+658,0.9889847151615447,0.00018133647205365478,1.0,1.0,6,0,Contexte juridique-administratif des indigènes.
+659,0.7167132003459629,0.10901003361246574,0.8,0.8333333333333334,6,0,Objets matériels locaux en contexte colonial/militaire.
+660,0.5970223141259935,0.21086654518989958,0.8,0.8333333333333334,6,0,"Contexte colonial congolais, habitat et culture locaux"
+661,0.6761234037828132,0.1403573866189946,0.0,0.5,6,0,Jugements culturels indigènes en contexte français.
+662,0.05368281270950187,0.9195531336918127,0.5714285714285714,0.5,6,0,"Origine locale, naturalisation économique/historique"
+663,0.6516311192522113,0.16090213915387372,0.5,0.6666666666666666,6,0,Matériaux textiles d'origine locale
+664,-0.11340959542474863,0.8306149290199493,0.0,0.3333333333333333,6,0,Interaction administrative coloniale avec indigènes vulnérables.
+665,0.08543576577167615,0.8721581607066159,0.0,0.5,6,0,Comparaison statistique produits/populations indigènes-européens
+666,0.08998425413316952,0.8653879275214327,0.4,0.5,6,0,Contexte militaire historique avec noms et dates.
+667,0.4049291435992628,0.425803916819264,0.6666666666666666,0.6666666666666666,6,0,Rôles subalternes administration coloniale française.
+668,-0.05415303610738824,0.9188498491176674,0.5714285714285714,0.5,6,0,Interactions administratives franco-indigènes coloniales.
+669,-0.2917299829957891,0.5748190673359244,0.6666666666666666,0.5,6,0,Produits ou concepts locaux spécifiques
+670,-0.30207229640147215,0.5606732523472072,0.3333333333333333,0.3333333333333333,6,0,Contexte administratif et interactions physiques indigènes
+671,0.22056438662814234,0.6745184997325251,0.0,0.5,6,0,Influence française sur indigènes militaires ou administratifs
+672,-0.02577696311132338,0.961343119108135,0.4,0.5,6,0,"Contexte géographique précis, coutumes, interactions culturelles."
+673,0.6521235987467637,0.16047733430382877,0.8,0.8333333333333334,6,0,"Contexte historique haïtien, symbolisme du drapeau."
+674,-0.4389311454644289,0.38388563985268237,0.3333333333333333,0.3333333333333333,6,0,Impact culturel social indigène influence extérieure
+675,0.8007545287260703,0.05559323787902185,0.8571428571428571,0.8333333333333334,6,0,Origine naturelle espèces régions géographiques spécifiques
+676,-0.7071067811865477,0.11611652351681548,0.0,0.5,6,0,Pratiques culturelles traditionnelles spécifiques indigènes
+677,0.4472135954999579,0.373900966300059,0.0,0.5,6,0,Pratiques culinaires traditionnelles des indigènes
+678,0.043768810953240825,0.9343887077185614,0.4,0.5,6,0,Structures institutionnelles impliquant populations indigènes
+679,-0.6868028197434453,0.1317775674941353,0.0,0.5,6,0,Droits civiques indigènes dans contexte colonial administratif
+680,0.5222329678670935,0.2878641347266908,0.5,0.6666666666666666,6,0,Produits locaux liés à la santé
+681,0.3333333333333335,0.5185185185185183,0.6666666666666666,0.5,6,0,"Origine ethnique et géographique spécifique, contexte historique"
+682,,,0.0,0.5,6,0,Droits d'usage forestiers indigènes réglementés.
+683,0.5807674919058523,0.22679255125108602,0.5,0.6666666666666666,6,0,"Évolution linguistique, étymologie, transformations phonétiques."
+684,-0.29851115706299686,0.5655332664528661,0.0,0.5,6,0,Sucre indigène dans contexte industriel français
+685,-0.5077455374260741,0.3038314977485495,0.0,0.3333333333333333,6,0,Distinction militaire/démographique indigènes en contexte colonial.
+686,0.3273614273578215,0.5264987851596763,0.4,0.5,6,0,Rôles administratifs indigènes en contexte colonial algérien
+687,-0.05277798139692595,0.9209065348424897,0.4,0.5,6,0,Produits ou espèces locales opposées à exotiques
+688,0.41274417170649813,0.4160408269126973,0.6666666666666666,0.6666666666666666,6,0,"Interactions coloniales, indigènes et Européens, contexte historique."
+689,-0.51425947722658,0.2966120373471157,0.0,0.3333333333333333,6,0,Conflit culturel et perception étrangère des indigènes
+690,0.6860090790319513,0.13240721837107292,0.8,0.8333333333333334,6,0,Noms géographiques donnés par indigènes.
+691,0.6708203932499369,0.14470399860633035,0.8,0.8333333333333334,6,0,"Peuples anciens, contexte historique et géographique."
+692,-0.1563858105428061,0.7673336106734069,0.4,0.5,6,0,"Indigènes, contexte colonial, dignité humaine, conflit."
+693,0.7597217761636014,0.07966437085766738,0.8,0.8333333333333334,6,0,"Produits agricoles locaux, mesures précises, contexte historique"
+694,0.9899494936611668,0.00015101140222179246,0.0,0.5,6,0,Divinités locales dans contextes mythologiques historiques
+695,0.16903085094570328,0.7488684500235266,0.0,0.5,6,0,"Contexte nordique historique, traditions locales."
+696,0.7299464530922297,0.09954602078051458,0.8,0.8333333333333334,6,0,Comparaison culturelle indigènes-Européens contexte colonial.
+697,-0.7427813527082077,0.09073317168478039,0.0,0.5,6,0,Distinction légale et socio-économique des indigènes
+698,0.5743195381816404,0.23323831289885705,0.5,0.6666666666666666,6,0,Pratiques culturelles indigènes perçues comme primitives.
+699,0.11111111111111122,0.8340192043895747,0.0,0.5,6,0,"Conflit colonial, rébellion indigène, violence, résistance."
+700,-0.49029033784546017,0.3234936203766968,0.3333333333333333,0.3333333333333333,6,0,Interactions culturelles et linguistiques coloniales
+701,-0.22645540682891915,0.6661234386496706,0.5714285714285714,0.5,6,0,Rôle administratif/éducatif sous contrôle colonial
+702,0.3876574430285533,0.4476420848869593,0.6666666666666666,0.6666666666666666,6,0,Contexte juridique historique « en matière indigène »
+703,0.6426268616206846,0.16875228479781762,0.0,0.5,6,0,Espèces locales avec contexte scientifique détaillé.
+704,0.32304772756798905,0.5322850123058844,0.5,0.6666666666666666,6,0,Produits locaux contrastés avec éléments exotiques.
+705,0.0,1.0,0.0,0.5,6,0,"Indigènes, nature, traits moraux, conflits coloniaux"
+706,0.12052567410047382,0.8200868932224769,0.5714285714285714,0.5,6,0,Interactions historiques Pacifique Sud 18ème-19ème siècles
+707,0.6868028197434453,0.1317775674941353,0.0,0.5,6,0,Objets artisanaux et culturels indigènes détaillés
+708,0.9945054529214062,4.5202131079404464e-05,1.0,1.0,6,0,Contexte colonial administratif et militaire organisé
+709,-0.1490711984999859,0.7780495489000209,0.0,0.5,6,0,Indigènes en contexte de pouvoir et transition
+710,0.3849001794597506,0.45116085521480004,0.5,0.6666666666666666,6,0,Motif numérique-symbolique avec « indigène » isolé.
+711,0.9950529731914645,3.6649076889365223e-05,1.0,1.0,6,0,Indigènes en rôles militaires intermédiaires coloniaux
+712,-0.10369516947304253,0.8450147467015815,0.0,0.5,6,0,Comparaison culturelle ou historique d'indigènes.
+713,0.987934593051383,0.0002174828622075541,1.0,1.0,6,0,"Cadre juridique colonial, contrats et régulations indigènes."
+714,0.3152441624956403,0.542798062467503,0.6666666666666666,0.6666666666666666,6,0,Utilisation indigènes logistique militaire coloniale exploration
+715,0.43643578047198484,0.3869116417179262,0.0,0.5,6,0,Aspects culturels et traditionnels des sociétés indigènes
+716,-0.9806575140045674,0.000557579327517784,0.0,0.0,6,0,"Population majoritairement autochtone, contexte géographique spécifique"
+717,-0.4703604341917987,0.3464903701936957,0.0,0.5,6,0,"Comparaison indigène-étranger, amélioration/supériorité"
+718,-0.08543576577167614,0.8721581607066159,0.0,0.5,6,0,"Contexte militaire colonial, différences statutaires légales."
+719,0.7899802326060504,0.06153064630811325,0.8571428571428571,0.8333333333333334,6,0,"Contexte colonial, jugement occidental, pratiques indigènes."
+720,0.0819231920519041,0.8773901219625865,0.4,0.5,6,0,"Contexte militaire colonial, révoltes historiques indigènes"
+721,-0.6833022976756528,0.1345641684337496,0.2857142857142857,0.16666666666666666,6,0,"Authenticité culturelle, charme, exotisme local."
+722,-0.6546536707079772,0.15830242337545783,0.0,0.5,6,0,Origine divine ou naturelle des indigènes
+723,0.44563193326673,0.3758006371630181,0.5,0.6666666666666666,6,0,Interactions sociales/militaires avec indigènes en structures.
+724,0.13736056394868917,0.7952550084538406,0.0,0.5,6,0,Comparaison botanique indigène/exotique en culture
+725,0.39821608679200204,0.43424963721136267,0.5,0.6666666666666666,6,0,Interactions archéologiques indigènes-environnement naturel
+726,0.21821789023599247,0.677868828699249,0.0,0.5,6,0,Sucre indigène dans contexte industriel/commercial
+727,0.33333333333333337,0.5185185185185183,0.6666666666666666,0.5,6,0,"Contexte culturel, traditionnel ou historique spécifique."
+728,-0.5773502691896257,0.230199641080499,0.0,0.5,6,0,Impact écologique espèces indigènes vs introduites
+729,0.15638581054280615,0.7673336106734066,0.4,0.5,6,0,"""Qualités distinctives locales, culturelles ou linguistiques"""
+730,-0.12209657262637616,0.8177652228480505,0.4,0.5,6,0,Exploitation économique indigène en Afrique coloniale
+731,0.6622661785325219,0.15183454328291054,0.6666666666666666,0.5,6,0,"Description physique, culturelle, jugement comparatif."
+732,0.49705012174770835,0.3158251265355073,0.6666666666666666,0.6666666666666666,6,0,"Contexte militaire colonial algérien, auxiliaires indigènes."
+733,-0.7006490497453708,0.12100391941035307,0.0,0.16666666666666666,6,0,Contexte colonial administratif et légal des indigènes
+734,0.447213595499958,0.373900966300059,0.0,0.5,6,0,Comparaison botanique indigène/exotique espèces végétales
+735,0.0,1.0,0.0,0.5,6,0,Comparaison indigène-étranger en santé/médecine.
+736,-0.26824058283377167,0.6072894844562843,0.3333333333333333,0.3333333333333333,6,0,Interactions culturelles locales et européennes.
+737,0.4873773249664941,0.32681900275888937,0.5,0.6666666666666666,6,0,Produits locaux en contexte économique/réglementaire.
+738,0.20492620783142398,0.6969136007532614,0.4,0.5,6,0,"Contexte historique antique, invasions, références classiques."
+739,0.6343870088614949,0.1760730219744783,0.5,0.6666666666666666,6,0,Indigènes dans contextes historiques de pouvoir.
+740,-0.04512936824065247,0.9323519042258245,0.4,0.5,6,0,Noms indigènes pour éléments naturels spécifiques.
+741,-0.6030226891555275,0.2051064552040775,0.0,0.5,6,0,Interactions économiques et sociales indigènes au Moyen-Orient
+742,0.22428065200812836,0.6692198834568247,0.4,0.5,6,0,"Contexte colonial algérien, droits et économie."
+743,0.3218490338246926,0.5338961051038096,0.6666666666666666,0.6666666666666666,6,0,Indigènes dans contextes militaires avec quantification précise
+744,0.7026752586689715,0.11946095155105511,0.8,0.8333333333333334,6,0,Comparaison botanique espèces locales et non-locales.
+745,0.3224903099319421,0.5330340312185479,0.75,0.6666666666666666,6,0,Entités locales dans contexte colonial/administratif
+746,-0.5219047258686893,0.2882223012893559,0.2857142857142857,0.16666666666666666,6,0,"Interactions coloniales, perceptions européennes, rôles actifs."
+747,0.6366820122120064,0.17402096040235482,0.5,0.6666666666666666,6,0,Interactions économiques coloniales avec indigènes africains.
+748,0.42289003161103106,0.40347892895502174,0.5,0.6666666666666666,6,0,"Armée haïtienne, indépendance, contexte héroïque."
+749,0.6846968651658969,0.13345100149115163,0.8,0.8333333333333334,6,0,Origine géographique des plantes en botanique.
+750,0.24183126064956165,0.6443245402819642,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial, indigènes perçus comme menace."
+751,0.7071067811865477,0.11611652351681548,0.0,0.5,6,0,Produits agricoles indigènes en contexte colonial.
+752,0.970936072875282,0.0012547924678974556,1.0,1.0,6,0,Produits agricoles locaux dans contexte colonial
+753,0.3876862148728077,0.44760541327742226,0.5,0.6666666666666666,6,0,Indigènes musulmans dans contexte colonial juridique-administratif
+754,0.5345224838248489,0.2745766290948478,0.5,0.6666666666666666,6,0,Indigènes algériens sous domination coloniale française
+755,0.18025253043783293,0.7325494945489195,0.4,0.5,6,0,Indigènes armés en contexte colonial militaire.
+756,0.991772793158125,0.00010125196143173934,1.0,1.0,6,0,"Groupes indigènes spécifiques, localisation géographique précise."
+757,0.9752695909397272,0.0009098272242626529,1.0,1.0,6,0,Produits locaux remplaçant équivalents exotiques.
+758,0.7844155915708847,0.06470513657288524,0.8,0.8333333333333334,6,0,"Contexte botanique, description plantes, origine géographique"
+759,0.5412746144356353,0.2673789116960772,0.8,0.8333333333333334,6,0,Contexte juridique militaire colonial français 1909.
+760,0.29851115706299686,0.5655332664528661,0.0,0.5,6,0,Noms indigènes historiques et géographiques spécifiques.
+761,0.7071067811865477,0.11611652351681548,0.8,0.8333333333333334,6,0,Contextes institutionnels techniques locaux spécifiques.
+762,0.42651616470111137,0.3990208185212544,0.75,0.6666666666666666,6,0,"Groupes ethniques, géographie, mode de vie spécifique."
+763,-0.09794042137487838,0.8535591061696961,0.4,0.5,6,0,"Comparaison indigène vs étranger, contexte pratique."
+764,0.616463391059798,0.19244131464873293,0.8,0.8333333333333334,6,0,Statut juridique des indigènes musulmans coloniaux
+765,0.44961798699763555,0.3710195815316096,0.5,0.6666666666666666,6,0,Activités culturelles festives et artistiques indigènes.
+766,0.3118914307759027,0.5473326705081257,0.0,0.5,6,0,"Interactions conflictuelles indigènes-colonisateurs, réactions immédiates."
+767,-0.9799578870122229,0.0005985041184871087,0.0,0.0,6,0,"Contexte colonial, conflit ou tension violente."
+768,-0.7427813527082074,0.09073317168478054,0.0,0.5,6,0,Unités militaires indigènes Afrique du Nord 19ème siècle
+769,-0.5363499164507368,0.27262134618324735,0.0,0.3333333333333333,6,0,"Plantes natives, contexte botanique, origine géographique"
+770,-0.6746907251875056,0.14152607654583224,0.0,0.16666666666666666,6,0,"Conflit colonial, tension militaire, interaction culturelle."
+771,0.7427813527082076,0.09073317168478054,0.0,0.5,6,0,Connaissances culturelles spécifiques faune-flore indigènes
+772,-0.5053628403969069,0.3064884517141197,0.5,0.3333333333333333,6,0,Indigènes dans contextes organisés et autoritaires.
+773,0.7175473098524099,0.10840231292938547,0.8,0.8333333333333334,6,0,Développement économique et industriel local
+774,0.5427204202399746,0.26584728607538,0.5,0.6666666666666666,6,0,Coutumes juridiques indigènes en contexte colonial
+775,-0.18786728732554486,0.7215143740821334,0.5,0.3333333333333333,6,0,"Contexte colonial, hiérarchie administrative, distinction Européens-indigènes."
+776,-0.327805034053593,0.5259047807931041,0.3333333333333333,0.3333333333333333,6,0,"Interaction coloniale, jugement européen sur indigènes."
+777,0.08543576577167616,0.8721581607066159,0.0,0.5,6,0,Distinction/exclusion indigènes vs non-indigènes.
+778,-0.38014296063485276,0.45725253597220444,0.0,0.5,6,0,Participation formelle indigène dans structures coloniales.
+779,0.2672612419124246,0.6086531814853781,0.0,0.5,6,0,Recrutement et rendement agricole spécifique.
+780,0.6067560187110125,0.20155545563251479,0.75,0.6666666666666666,6,0,Authenticité locale littéraire ou biologique
+781,-0.19377278632539324,0.7129787004084405,0.0,0.3333333333333333,6,0,Régulation légale coloniale des indigènes
+782,-0.2699527623995086,0.604907191872784,0.3333333333333333,0.3333333333333333,6,0,Origine locale historique ou culturelle spécifique.
+783,-0.2745713169646248,0.5984929090866205,0.3333333333333333,0.3333333333333333,6,0,Structures organisationnelles formelles impliquant indigènes
+784,0.6000991981489792,0.20790477863371357,0.5,0.6666666666666666,6,0,"Espèces locales, contexte écologique ou biologique."
+785,0.9799118698777319,0.0006012463462905897,1.0,1.0,6,0,Plantes indigènes avec localisation géographique spécifique.
+786,0.4472135954999581,0.3739009663000587,0.6666666666666666,0.5,6,0,Origine étrangère contrastée avec locale
+787,0.35355339059327373,0.491767001022169,0.0,0.5,6,0,Comparaison démographique européenne-indigène en Afrique du Nord
+788,-0.4509743927156974,0.3693975240491974,0.0,0.16666666666666666,6,0,Interactions historiques spécifiques avec indigènes nommés
+789,0.3250898636465757,0.5295435087387976,0.6666666666666666,0.6666666666666666,6,0,Interactions militaires coloniales avec figures indigènes
+790,0.7381017469576844,0.09390415082918643,0.8,0.8333333333333334,6,0,"Domination coloniale, assimilation, soumission des indigènes"
+791,-0.2020050626594551,0.701113919883718,0.4,0.5,6,0,"Contexte historique, académique, mythologique, latin."
+792,0.6965260331469924,0.12417023554784136,0.0,0.5,6,0,Interactions sociales polies dans contexte historique précis
+793,0.11547005383792512,0.8275647196020317,0.4,0.5,6,0,"Contexte colonial, violence, transformation forcée indigènes"
+794,-0.8466487815452379,0.0334717449616313,0.6666666666666666,0.5,6,0,"Contexte colonial, contraste culturel, droits locaux."
+795,0.3443784128369115,0.5038534164532074,0.5,0.6666666666666666,6,0,"Indigènes sous administration coloniale, obligations légales."
+796,-0.13736056394868917,0.7952550084538406,0.0,0.5,6,0,"Conflit colonial, résistance indigène, pratiques distinctes."
+797,0.7107074680240142,0.11342978313160514,0.8,0.8333333333333334,6,0,Protection humanitaire institutionnelle indigènes Afrique coloniale
+798,0.44105427713597706,0.3813174805524212,0.5,0.6666666666666666,6,0,Authenticité culturelle nationale intrinsèque
+799,-0.5184758473652127,0.2919738428453547,0.6666666666666666,0.5,6,0,Origine géographique ou culturelle spécifique
+800,0.6629192133345299,0.15128504301790016,0.8,0.8333333333333334,6,0,Administration indigène autonome dans contexte colonial
+801,0.5826571958969294,0.22491717938534478,0.6666666666666666,0.6666666666666666,6,0,"Administration coloniale française, Indochine, chefs indigènes"
+802,-0.5042194840896108,0.30776647099561905,0.0,0.3333333333333333,6,0,Gestion coloniale des indigènes dans contextes militaires-administratifs
+803,0.38063220531689695,0.4566248556422663,0.5,0.6666666666666666,6,0,Interactions juridiques coloniales et autonomie indigène
+804,0.4953436400128698,0.31775461577289565,0.5,0.6666666666666666,6,0,"Caractéristiques uniques, exclusives des indigènes"
+805,-0.26832815729997483,0.607167577712837,0.0,0.5,6,0,"Conflit armé indigènes, menace exotique"
+806,0.4330501905466243,0.3910301995793703,0.6666666666666666,0.6666666666666666,6,0,"Contexte culturel comparatif, opposition influence étrangère."
+807,0.43428120802608244,0.38953094228018414,0.5,0.6666666666666666,6,0,"Politique indigène coloniale, Afrique, infrastructures, finances"
+808,0.7071067811865477,0.11611652351681548,0.0,0.5,6,0,"Comparaison culturelle historique, perspective européenne."
+809,0.46123222613502457,0.3572118179912755,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial, rôles spécifiques, distinction culturelle/légale"
+810,0.8347257041177224,0.03871610662920045,0.8571428571428571,0.8333333333333334,6,0,"Contexte politique-administratif, langue ou autonomie indigène."
+811,0.3478124705560486,0.49931934267128586,0.6666666666666666,0.6666666666666666,6,0,"Interactions coloniales, exploitation ressources, noms indigènes."
+812,0.3495633186072456,0.49701238195416286,0.5,0.6666666666666666,6,0,Contexte légal et administratif des indigènes
+813,0.5299989400031802,0.279439643366463,0.0,0.5,6,0,Artistes indigènes dans contextes historiques artistiques.
+814,0.7439964729139704,0.08991775408928913,0.8571428571428571,0.8333333333333334,6,0,"Contexte économique colonial, infrastructures indigènes."
+815,-0.31108550841912763,0.5484242619722343,0.0,0.3333333333333333,6,0,"Indigènes contexte colonial français, droits et statut."
+816,0.7245867020933623,0.10333333551787922,0.8,0.8333333333333334,6,0,Plantes médicinales locales à usage thérapeutique
+817,0.052057920629535376,0.921983658243542,0.5714285714285714,0.5,6,0,"Contexte colonial français, mission civilisatrice Afrique"
+818,0.8669214468630109,0.02538644793661523,0.0,0.5,6,0,Classification botanique indigène versus exotique.
+819,0.8139985347071094,0.04867731359614524,0.8,0.8333333333333334,6,0,Origine géographique d'espèces végétales/animales
+820,-0.1500267928911667,0.7766482150848547,0.3333333333333333,0.3333333333333333,6,0,"Contexte administratif colonial, rôles et comparaisons légales."
+821,-0.11528574397767917,0.8278375040758635,0.4,0.5,6,0,Origine locale contrastée avec importation étrangère
+822,-0.7226056273216854,0.10474903610523775,0.0,0.16666666666666666,6,0,Statut légal indigènes sous colonisation française
+823,-0.18291322825490774,0.7286900443356573,0.4,0.5,6,0,"Contexte colonial, perception extérieure, organisation étatique."
+824,-0.02424643224844361,0.9636374787385186,0.4,0.5,6,0,Rôles subalternes indigènes en contextes coloniaux.
+825,-0.9988123511248967,2.11492718058238e-06,0.0,0.0,6,0,Contexte culturel et géographique régional spécifique
+826,0.1856953381770518,0.7246586364960955,0.0,0.5,6,0,Comparaison juridique indigènes et Européens en contexte colonial
+827,0.6333357767631116,0.1770163235097729,0.8571428571428571,0.8333333333333334,6,0,"Ressources locales, contexte scientifique, autosuffisance."
+828,0.3344729377972476,0.5169996959891343,0.6666666666666666,0.6666666666666666,6,0,"Démographie indigène, recensement colonial, détails ethniques."
+829,0.40132208141082515,0.43033522731734697,0.5,0.6666666666666666,6,0,Interactions économiques-culturelles indigènes-étrangers
+830,0.0,1.0,0.0,0.5,6,0,Données statistiques sur populations indigènes.
+831,0.9627428822920592,0.002056281061064693,1.0,1.0,6,0,"Vie indigène, mode de vie socio-économique distinct"
+832,0.9808135650602392,0.0005486474801839562,1.0,1.0,6,0,"Contexte colonial, législation, pratiques locales spécifiques"
+833,-0.30599503068105227,0.5553330640290328,0.5,0.3333333333333333,6,0,Renseignements militaires locaux en contexte colonial
+834,,,0.0,0.5,6,0,"Plantes indigènes comparées à exotiques, usage médical"
+835,0.43148364423208146,0.39294094378667827,0.75,0.6666666666666666,6,0,Termes linguistiques ou matériaux locaux spécifiques.
+836,0.02108653748577924,0.9683748817520973,0.5714285714285714,0.5,6,0,"Contexte colonial, domination, jugement culturel."
+837,0.6965260331469924,0.12417023554784136,0.0,0.5,6,0,Interactions humaines-animales en contexte naturel.
+838,0.09025873648130478,0.8649795479724677,0.5714285714285714,0.5,6,0,"Contexte colonial algérien, institutions et économie"
+839,0.21821789023599236,0.6778688286992494,0.6666666666666666,0.5,6,0,Éléments naturels et culturels régionaux spécifiques
+840,0.22097086912079614,0.6739384929282003,0.6666666666666666,0.6666666666666666,6,0,"Éducation coloniale française en Algérie, administration"
+841,0.9370425713316366,0.005820686513995497,0.0,0.5,6,0,"Sucre de betterave local, contexte économique."
+842,0.9799703466645715,0.0005977627007122594,1.0,1.0,6,0,Participation indigène dans structures administratives coloniales
+843,0.5026090374675886,0.30956994703630203,0.5,0.6666666666666666,6,0,Indigènes décrits géographiquement et physiquement.
+844,-0.5184758473652129,0.2919738428453545,0.0,0.5,6,0,Contributions culturelles indigènes historiques spécifiques
+845,-0.4216051552013829,0.4050626165417004,0.3333333333333333,0.3333333333333333,6,0,Mœurs indigènes influencées par civilisation extérieure
+846,0.282842712474619,0.5870496397870564,0.0,0.5,6,0,Arbres indigènes en contexte historique/culturel
+847,0.612571665435814,0.19607443673183494,0.8,0.8333333333333334,6,0,"Contexte juridique colonial, lois pour indigènes"
+848,0.4800793585191833,0.3352043930601023,0.0,0.5,6,0,Indigènes comme informateurs stratégiques locaux.
+849,0.7078937672745131,0.11552694111135445,0.8,0.8333333333333334,6,0,Indigènes liés à chefs ou lieux spécifiques
+850,-0.2672612419124244,0.6086531814853787,0.0,0.3333333333333333,6,0,"Comparaison coloniale, indigènes vs Européens, subordination."
+851,0.46225016352102427,0.35601045594934216,0.75,0.6666666666666666,6,0,"Contexte historique-anthropologique, comparaison culturelle, colonisation."
+852,0.8406728074767076,0.03605545873464068,0.8,0.8333333333333334,6,0,Espèces végétales locales comparées à exotiques.
+853,0.3876574430285533,0.4476420848869593,0.6666666666666666,0.6666666666666666,6,0,Interactions sociales/administratives avec structures européennes
+854,0.12357928114932143,0.8155747197020206,0.6666666666666666,0.6666666666666666,6,0,Gestion coloniale des ressources indigènes.
+855,0.5539759496750485,0.25404073582378656,0.8571428571428571,0.8333333333333334,6,0,"Caractéristiques distinctes indigènes, contexte géographique/historique."
+856,0.0,1.0,0.4,0.5,6,0,Rôles administratifs et descriptions culturelles spécifiques.
+857,-0.3443754293070215,0.5038573609983762,0.3333333333333333,0.3333333333333333,6,0,"Contexte colonial historique, interactions indigènes-colonisateurs."
+858,0.5163977794943221,0.29425636802442656,0.6666666666666666,0.5,6,0,"Interactions culturelles, perceptions externes, contexte historique."
+859,0.9800609575528865,0.0005923845837319807,1.0,1.0,6,0,"Affaires indigènes, administration coloniale algérienne"
+860,-0.24784079854830487,0.6358506203147757,0.3333333333333333,0.3333333333333333,6,0,Distinction locale dans contextes économiques et militaires
+861,0.43796787185533803,0.38505278350746647,0.5,0.6666666666666666,6,0,Transformation linguistique des noms propres indigènes
+862,0.5970223141259935,0.21086654518989958,0.75,0.6666666666666666,6,0,Interactions historiques colonisation peuples indigènes nommés
+863,0.5698028822981898,0.23779614445826566,0.5,0.6666666666666666,6,0,"Contexte militaire historique, unités indigènes."
+864,0.4703604341917988,0.34649037019369544,0.5,0.6666666666666666,6,0,Connaissances indigènes sur éléments naturels locaux
+865,-0.3917616854995135,0.4424207185996134,0.5,0.3333333333333333,6,0,"Administration coloniale, agents locaux, hiérarchie"
+866,0.48587685197211045,0.3285367304891109,0.8571428571428571,0.8333333333333334,6,0,Indigènes en contexte géographique-historique précis
+867,-0.7557421816064581,0.0822063822190347,0.0,0.16666666666666666,6,0,Contexte colonial militaire et territorial historique.
+868,-0.07273929674533083,0.8910834868839754,0.0,0.5,6,0,Rôle consultatif indigène dans contexte juridique colonial
+869,-0.3083132079891038,0.5521838575975755,0.0,0.3333333333333333,6,0,Comparaison explicite avec Européens.
+870,0.0,1.0,0.0,0.5,6,0,Comparaison culturelle indigènes vs Européens contexte colonial.
+871,-0.24613694493498883,0.6382504885585243,0.0,0.3333333333333333,6,0,Régulations administratives et légales pour indigènes
+872,-0.8305043468682536,0.04065846328344933,0.0,0.16666666666666666,6,0,Contexte colonial administratif ou économique.
+873,0.7145267827077942,0.1106101227898764,0.8,0.8333333333333334,6,0,Indigènes en rôles économiques/militaires coloniaux.
+874,0.058621038176054935,0.9121691661692096,0.4,0.5,6,0,"Origine naturelle, contraste avec éléments exotiques."
+875,0.4622501635210243,0.35601045594934216,0.0,0.5,6,0,Plantes médicinales locales en médecine vétérinaire
+876,0.3922322702763681,0.44182330768363004,0.6666666666666666,0.6666666666666666,6,0,Interactions culturelles et sociales indigènes-européennes
+877,-0.3303139474460123,0.5225489109504441,0.0,0.3333333333333333,6,0,"Contexte économique, militaire, administratif spécifique."
+878,-0.03239317741958685,0.9514272292417737,0.5714285714285714,0.5,6,0,"Contexte économique, militaire, linguistique, autorité locale."
+879,0.4850712500726662,0.32946033078190273,0.0,0.5,6,0,"Sociétés indigènes de prévoyance, contexte administratif spécifique"
+880,0.7643087457604881,0.07677918311334452,0.8,0.8333333333333334,6,0,Distinction légale/administrative indigènes vs Européens
+881,-0.4472135954999581,0.3739009663000587,0.0,0.5,6,0,« Espèces végétales locales et caractéristiques distinctives »
+882,-0.13736056394868884,0.7952550084538412,0.0,0.5,6,0,Traditions et structures sociales indigènes d'Amérique
+883,-0.6098367211363065,0.19864430858948162,0.0,0.16666666666666666,6,0,Contexte colonial éducatif/administratif avec hiérarchie explicite
+884,0.6846968651658968,0.13345100149115163,0.8,0.8333333333333334,6,0,"Produits alimentaires locaux, viande, agriculture."
+885,0.734122147711584,0.09663895857927829,0.8,0.8333333333333334,6,0,"Non-indigénéité, transport, acclimatation, origine géographique."
+886,0.5842062378369861,0.2233845404863274,0.5,0.6666666666666666,6,0,"Armée indigène haïtienne, guerre d'indépendance."
+887,0.8313979615881407,0.04024357569017936,0.8,0.8333333333333334,6,0,Ressources naturelles locales dans contexte industriel.
+888,0.9757387538180902,0.0008757719168482799,1.0,1.0,6,0,"Éducation coloniale indigène, niveaux et examens spécifiques."
+889,0.3123475237772122,0.5467151789086798,0.5,0.6666666666666666,6,0,"""Sang indigène dans l'élevage équin historique"""
+890,0.9586873657671592,0.0025248457873681233,1.0,1.0,6,0,"""Question indigène post-guerre en Algérie"""
+891,0.185695338177052,0.7246586364960952,0.0,0.5,6,0,Interactions culturelles indigènes avec étrangers historiques.
+892,0.4202303194929034,0.40675949672422945,0.75,0.6666666666666666,6,0,"Contexte colonial, pouvoir européen, rôle subordonné."
+893,-0.20180183819889386,0.701406329904804,0.0,0.5,6,0,"Transformation culturelle, linguistique ou religieuse indigène"
+894,0.3922322702763681,0.44182330768363004,0.0,0.5,6,0,"Conflits historiques haïtiens, figures clés, indépendance."
+895,0.5412746144356352,0.2673789116960772,0.5,0.6666666666666666,6,0,"Administration coloniale indigène, hiérarchie et solde."
+896,0.6019292654288462,0.20615125863731887,0.8,0.8333333333333334,6,0,Noms de lieux historiques et indigènes
+897,0.43475559389442986,0.38895371400972545,0.5,0.6666666666666666,6,0,Ressources alimentaires ou agricoles locales spécifiques
+898,0.1950539181879455,0.7111296364271524,0.6666666666666666,0.6666666666666666,6,0,"Contexte économique colonial, valorisation ressources indigènes"
+899,-0.5150262026246049,0.2957665584801491,0.0,0.3333333333333333,6,0,"Espèces ou produits locaux, authenticité naturelle."
+900,0.5313272602318609,0.2780082524076468,0.5,0.6666666666666666,6,0,Comparaison coloniale entre Européens et indigènes
+901,0.44721359549995804,0.3739009663000587,0.0,0.5,6,0,Description botanique précise d'arbustes indigènes
+902,0.36514837167011077,0.4766206672728413,0.5,0.6666666666666666,6,0,"Matériaux locaux, bois, contexte historique/culturel"
+903,-0.4385523723241928,0.3843444320328992,0.3333333333333333,0.3333333333333333,6,0,"Contexte colonial, militaire, éducatif structuré."
+904,0.33806170189140666,0.5122252586995417,0.5,0.6666666666666666,6,0,Interactions coloniales initiales avec indigènes.
+905,0.39950093555113786,0.43262897058261096,0.5,0.6666666666666666,6,0,"""Tirailleurs indigènes dans contexte militaire colonial"""
+906,0.07173421497882157,0.8925832424073563,0.4,0.5,6,0,Administration et infrastructures indigènes coloniales
+907,-0.24951314462072216,0.6334972292049703,0.0,0.3333333333333333,6,0,Perceptions indigènes dans contexte colonial historique
+908,0.5292089035675851,0.2802923134569615,0.6666666666666666,0.6666666666666666,6,0,"Colonisation, administration coloniale, conflits indigènes"
+909,0.6229080740105349,0.1864865616671488,0.8,0.8333333333333334,6,0,"Contexte militaire historique, armée indigène en conflit."
+910,0.6350006350009526,0.17552336907134394,0.8,0.8333333333333334,6,0,Indigènes en rôles militaires coloniaux.
+911,0.1961161351381841,0.7095972614299966,0.0,0.5,6,0,Divinité ou entité locale spécifique.
+912,0.5753559617824611,0.2321973889316813,0.5,0.6666666666666666,6,0,Description botanique de plantes locales.
+913,-0.1690308509457033,0.7488684500235266,0.0,0.5,6,0,Interactions coloniales européennes avec indigènes africains.
+914,-0.2847473987257497,0.5844227153732303,0.3333333333333333,0.3333333333333333,6,0,Gestion institutionnelle coloniale des indigènes
+915,0.7071067811865477,0.11611652351681548,0.0,0.5,6,0,Arbres locaux dans contextes botaniques spécifiques.
+916,0.3905667329424717,0.4439388886920741,0.0,0.5,6,0,Plantes indigènes avec descriptions botaniques détaillées.
+917,0.4622501635210243,0.35601045594934216,0.0,0.5,6,0,"Utilisation indigène de plantes, détails botaniques."
+918,0.7779466213221045,0.06848708345237384,0.8,0.8333333333333334,6,0,"Femmes indigènes, contexte vestimentaire et social spécifique"
+919,0.6629192133345299,0.15128504301790016,0.8,0.8333333333333334,6,0,"Interactions coloniales, indigènes exploités par Européens."
+920,-0.47604248440179175,0.3398758016047974,0.5,0.3333333333333333,6,0,Groupes ethniques spécifiques en contexte géographique précis.
+921,0.7924058156930615,0.06016984650357823,0.0,0.5,6,0,Plantes locales dans contexte historique économique
+922,0.47886115464444223,0.3366116161574279,0.75,0.6666666666666666,6,0,"Distinction locale vs étrangère, statut légal"
+923,0.19334729780913268,0.7135930214696493,0.6666666666666666,0.6666666666666666,6,0,"Interactions coloniales, contributions culturelles, artisanat."
+924,-0.31405435355412825,0.5444060816249017,0.3333333333333333,0.3333333333333333,6,0,"Contexte colonial, conflit, domination étrangère, géographie spécifique"
+925,0.5570860145311557,0.2508153597684457,0.0,0.5,6,0,Comparaison médicale indigène vs exotique substances.
+926,0.0,1.0,0.4,0.5,6,0,Indigènes dans rôles spécifiques sous autorité européenne
+927,0.7166295621410194,0.1090710538049613,0.8571428571428571,0.8333333333333334,6,0,Administration coloniale française des affaires indigènes
+928,-0.6546536707079773,0.15830242337545783,0.0,0.5,6,0,"Architecture médiévale, flore locale, ornementation."
+929,-0.5570860145311556,0.25081535976844593,0.0,0.5,6,0,Institutions religieuses et éducatives indigènes.
+930,0.6904941785382122,0.12886640261595084,0.5,0.6666666666666666,6,0,"Plantes locales, espèces spécifiques, propriétés botaniques"
+931,0.9783256002435406,0.0006995783117282511,1.0,1.0,6,0,"Espèces végétales/animales, habitat naturel, taxonomie."
+932,5.551115123125783e-17,1.0,0.5714285714285714,0.5,6,0,Contexte colonial légal administratif indigènes non naturalisés
+933,0.5753559617824611,0.2321973889316813,0.5,0.6666666666666666,6,0,"Plantes originaires, contexte botanique, détails taxonomiques."
+934,0.30151134457776374,0.5614380442505255,0.0,0.5,6,0,Pratiques sociales indigènes spécifiques et détaillées
+935,0.6265529978602171,0.18315303833086397,0.8571428571428571,0.8333333333333334,6,0,"Contexte colonial/militaire, tensions, comparaisons intergroupes."
+936,-0.41702882811414965,0.4107201341865277,0.0,0.5,6,0,Conflit armé indigènes contre forces coloniales françaises
+937,0.35986374603287313,0.48350590320339365,0.5,0.6666666666666666,6,0,Commerce colonial avec indigènes africains.
+938,0.5050762722761054,0.30680858549861034,0.75,0.6666666666666666,6,0,Origine locale contrastée avec éléments étrangers.
+939,0.9698185770838983,0.0013526310287960929,1.0,1.0,6,0,Indigènes sous administration coloniale française formelle
+940,0.447213595499958,0.373900966300059,0.0,0.5,6,0,Bois locaux utilisés en artisanat meuble
+941,0.4472135954999579,0.373900966300059,0.0,0.5,6,0,Plantes médicinales locales validées par experts
+942,0.6512526486436017,0.16122892399567218,0.8571428571428571,0.8333333333333334,6,0,Contexte colonial administratif et assimilation culturelle.
+943,0.570323432101734,0.2372690659392132,0.5,0.6666666666666666,6,0,Interactions culturelles et économiques locales positives
+944,0.3960912892638291,0.43693411248066716,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial, administratif, « nos indigènes »"
+945,0.5610482694025283,0.24672962544885396,0.5,0.6666666666666666,6,0,Perception culturelle indigène d'éléments étrangers.
+946,0.447213595499958,0.373900966300059,0.0,0.5,6,0,Régulation coloniale emploi non indigènes.
+947,0.22916971156507793,0.6622632868145958,0.5,0.6666666666666666,6,0,Contexte culturel artistique national spécifique.
+948,0.7071067811865477,0.11611652351681548,0.0,0.5,6,0,"Contexte historique italien, culturel, artistique."
+949,-0.09567297464698801,0.8569284006137148,0.4,0.5,6,0,Indigènes dans contexte militaire administratif formel
+950,-0.46580257053340274,0.3518292099520731,0.0,0.3333333333333333,6,0,"Conflit, opposition, rôle religieux ou culturel."
+951,0.7224219619614706,0.10488071695424883,0.75,0.6666666666666666,6,0,"Interactions coloniales économiques, sanitaires, agricoles, missionnaires."
+952,0.3137738479618213,0.544785377611125,0.6666666666666666,0.6666666666666666,6,0,"Interactions coloniales avec chefs indigènes, traités."
+953,-0.5100613704506707,0.30125739088668285,0.0,0.3333333333333333,6,0,Comparaison historique sociétés indigènes et européennes.
+954,-0.1690308509457033,0.7488684500235266,0.0,0.5,6,0,Navires indigènes sous réglementation maritime coloniale.
+955,0.7753148860571065,0.07005366635265421,0.8,0.8333333333333334,6,0,Indigènes en rôles militaires auxiliaires français
+956,-0.4480107683171242,0.3729447854687174,0.0,0.3333333333333333,6,0,Coutumes indigènes dans l'administration coloniale algérienne
+957,0.5488212999484519,0.25942186031052283,0.5,0.6666666666666666,6,0,"Interactions européennes avec indigènes, échanges culturels."
+958,0.6274480936306505,0.18233822784141773,0.8,0.8333333333333334,6,0,"Plantes indigènes, descriptions botaniques détaillées."
+959,0.10599978800063597,0.8415958224260158,0.0,0.5,6,0,Connaissance locale et propriétés botaniques spécifiques
+960,-0.37387825055298296,0.4653138997468093,0.0,0.3333333333333333,6,0,Restrictions et dangers pour indigènes.
+961,-0.10062582623576223,0.8495707069112198,0.4,0.5,6,0,"Sucre local, production industrielle, betterave"
+962,0.23976567695118692,0.6472432588219941,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial français, population indigène passive."
+963,0.23819078783345612,0.6494706777271446,0.6666666666666666,0.6666666666666666,6,0,Origine naturelle d'espèces ou pratiques locales.
+964,-0.36514837167011077,0.4766206672728413,0.0,0.5,6,0,Maladies endémiques spécifiques à une région
+965,-0.09450674565971579,0.8586619261900182,0.4,0.5,6,0,Contexte indigène contrasté avec éléments étrangers.
+966,-0.8232319499226777,0.044108684653035454,0.2857142857142857,0.16666666666666666,6,0,"Origine locale économique, contraste étranger."
+967,0.4455663943395034,0.3758794255759162,0.5,0.6666666666666666,6,0,Assistance sociale indigène en contexte colonial
+968,0.2196873875818734,0.6757702552001115,0.4,0.5,6,0,Opposition culturelle indigènes vs étrangers historiques.
+969,1.1102230246251565e-16,1.0,0.0,0.5,6,0,Plantes locales en contextes médicinaux ou culinaires.
+970,-0.6832137064709811,0.13463501816470252,0.2857142857142857,0.16666666666666666,6,0,"Contexte historique, culturel ou académique spécifique."
+971,0.02687046074502289,0.9597040094098103,0.5714285714285714,0.5,6,0,"Contexte littéraire, local, communal, familier."
+972,0.29851115706299675,0.5655332664528661,0.6666666666666666,0.6666666666666666,6,0,"Quartier indigène urbain, contexte colonial animé."
+973,0.2683281572999749,0.6071675777128367,0.0,0.5,6,0,Institutions éducatives ou militaires indigènes spécifiques
+974,-0.041996052556580815,0.9370429547211752,0.4,0.5,6,0,Éléments culturels ou naturels locaux authentiques
+975,-0.34749779421045557,0.4997343075800423,0.3333333333333333,0.3333333333333333,6,0,Interactions indigènes avec structures extérieures spécifiques
+976,0.8355316915277184,0.038350317298286585,0.8,0.8333333333333334,6,0,Classification raciale indigènes versus Européens colonisation
+977,0.6842573291427351,0.1338014157094858,0.8,0.8333333333333334,6,0,Indigènes dans contextes militaires ou paramilitaires.
+978,-0.6260990336999412,0.18356686005527667,0.0,0.5,6,0,Croisement et amélioration de races animales indigènes
+979,-0.684977600214933,0.13322739688442126,0.0,0.16666666666666666,6,0,Contextes institutionnels régionaux spécifiques.
+980,-0.32732683535398854,0.5265451131486953,0.3333333333333333,0.3333333333333333,6,0,Perception coloniale des métiers indigènes nord-africains
+981,0.09600307214746387,0.8564378022495299,0.4,0.5,6,0,Conflit militaire et contrôle territorial indigènes
+982,0.06570043198176044,0.9015911515208451,0.4,0.5,6,0,Statut légal « au titre indigène » administratif.
+983,0.5952479825670705,0.21258220658408294,0.8,0.8333333333333334,6,0,"Contexte colonial, lois, caractéristiques raciales."
+984,0.2739983121755955,0.59928775366512,0.5,0.6666666666666666,6,0,"Espèces végétales indigènes, noms scientifiques latins."
+985,0.4008188340197078,0.4309686717031689,0.5,0.6666666666666666,6,0,Origine locale contrastée avec influence étrangère
+986,0.7863570994927849,0.06358925108709444,0.8571428571428571,0.8333333333333334,6,0,Propriété indigène dans contexte légal administratif
+987,0.8751899489873673,0.02239420591836627,0.0,0.5,6,0,Descriptions visuelles détaillées d'indigènes dans l'art.
+988,0.5570860145311557,0.2508153597684457,0.0,0.5,6,0,Indigène en contexte héroïque ou dramatique.
+989,0.447213595499958,0.373900966300059,0.0,0.5,6,0,Rôles militaires coloniaux des indigènes.
+990,0.4202303194929034,0.40675949672422945,0.75,0.6666666666666666,6,0,"Interactions historiques coloniales, mélange culturel, minorité-majorité"
+991,-0.6068747767839122,0.2014429130474508,0.3333333333333333,0.3333333333333333,6,0,"Indigènes adultes, contexte spécifique, détails précis."
+992,0.30429030972509236,0.5576520497514861,0.5,0.6666666666666666,6,0,"Comparaison locale-européenne, qualité/tradition spécifique."
+993,-0.20851441405707483,0.6917613009591066,0.0,0.5,6,0,"Plantes acclimatées, contexte historique et géographique."
+994,-0.1292287382909359,0.8072359568445827,0.5714285714285714,0.5,6,0,"Contexte colonial militaire, contrôle indigène."
+995,0.08520286456846105,0.8725049694433827,0.4,0.5,6,0,Rôles indigènes dans structures de pouvoir historiques
+996,0.3713906763541039,0.4685271355622306,0.0,0.5,6,0,Identité culturelle et linguistique indigène spécifique
+997,0.44721359549995787,0.373900966300059,0.5,0.6666666666666666,6,0,Utilisation médicinale de plantes indigènes.
+998,0.5964226498330873,0.21144575096057946,0.5,0.6666666666666666,6,0,"Animaux locaux, caractéristiques physiques détaillées."
+999,0.2910427500435996,0.5757623914070352,0.6666666666666666,0.6666666666666666,6,0,"Contexte militaire/administratif colonial, rôles hiérarchiques."
+1000,-0.26099366750561803,0.6173986421934976,0.3333333333333333,0.3333333333333333,6,0,Statut légal indigènes contexte colonial administratif
+1001,0.6559297999321457,0.15721019852620888,0.5,0.6666666666666666,6,0,"Plantes et langues indigènes, contexte géographique spécifique."
+1002,0.48666426339228774,0.32763489926065514,0.0,0.5,6,0,Perception d'origine locale de plantes/agriculture
+1003,0.06774581282657177,0.89853674030003,0.4,0.5,6,0,"Intégration culturelle, produits locaux, impact économique."
+1004,0.35120297124775557,0.4948548497139826,0.75,0.6666666666666666,6,0,"Contexte colonial, distinction groupes, caractéristiques culturelles."
+1005,0.3533709114117796,0.49200652260411876,0.75,0.6666666666666666,6,0,Origine locale géographique ou linguistique spécifique
+1006,0.5136383927242701,0.2972975809120474,0.6666666666666666,0.6666666666666666,6,0,"Contexte colonial, juridique, perte de droits, influence extérieure"
+1007,0.9770204301916487,0.0007860236398266203,1.0,1.0,6,0,Contexte colonial administratif ou militaire distinctif.
+1008,0.02167265757643841,0.9674961035032562,0.4,0.5,6,0,Transformation culturelle d'éléments étrangers.
+1009,-0.1069044967649698,0.8402541376912024,0.4,0.5,6,0,Distinction culturelle régionale spécifique.
+1010,0.6761234037828134,0.1403573866189944,0.0,0.5,6,0,Observation exotique d'indigènes par étrangers historiques
+1011,0.681005224606999,0.1364064180708346,0.5,0.6666666666666666,6,0,"Contexte esthétique culturel, valorisation positive, authenticité."
+1012,0.30261376633440124,0.5599352921803762,0.0,0.5,6,0,"Plantes médicinales locales, contexte légal réglementaire"
+1013,-0.22496063533292382,0.6682513707691599,0.3333333333333333,0.3333333333333333,6,0,"Contexte administratif colonial, autonomie indigène."
+1014,0.645942241466174,0.16584355369282022,0.5,0.6666666666666666,6,0,Origine géographique/botanique spéculative d'espèces historiques
+1015,0.5933040908458098,0.21446827436127258,0.5,0.6666666666666666,6,0,Contexte administratif et financier des indigènes
+1016,0.2769981308412335,0.595129555111577,0.75,0.6666666666666666,6,0,"Contexte colonial Algérie, gestion et interaction"
+1017,0.28056585887484736,0.5901938912644357,0.5,0.6666666666666666,6,0,Obligations légales et conséquences économiques pour indigènes
+1018,0.35771788508272395,0.48631033563950055,0.5,0.6666666666666666,6,0,"Pratiques culturelles indigènes, descriptions détaillées"
+1019,0.7924058156930618,0.0601698465035781,0.0,0.5,6,0,"Vie primitive, simplicité, dépendance nature, idéalisation."
+1020,0.3563249516154553,0.4881334115828351,0.5,0.6666666666666666,6,0,Espèces indigènes dans contexte écologique spécifique
+1021,-0.6527299120066195,0.1599549900055655,0.2857142857142857,0.16666666666666666,6,0,"Contexte colonial, interventions dans milieux indigènes."
+1022,0.07583402087483376,0.8864670217829165,0.5714285714285714,0.5,6,0,Origine locale dans contexte économique/administratif
+1023,-0.46475800154489005,0.3530568618495131,0.0,0.3333333333333333,6,0,"Culture locale européenne, artistique et linguistique"

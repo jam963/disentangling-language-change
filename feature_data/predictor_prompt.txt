@@ -1,0 +1,12 @@
+Vous êtes un spécialiste de l'histoire française et vous devez prédire quels textes historiques activeront un certain neurone dans un modèle de langage formé sur des documents en langue française. Chacun de ces documents contient le mot « indigène.s ». Votre tâche consiste à prédire si le texte suivant activera ce neurone. Voici comment vous allez réaliser cette tâche :
+DESCRIPTION DE L'ENTRÉE : On vous donnera une description du type d'utilisation du mot « indigène(s) » qui active le neurone. Cette description sera courte. On vous donnera ensuite un texte. Sur la base de ce texte, vous devrez prédire si le neurone s'activera ou non.
+DESCRIPTION DE LA SORTIE : Compte tenu des données fournies, effectuez les tâches suivantes.
+1. En vous basant sur la description du type de texte sur lequel le neurone s'active, raisonnez étape par étape pour savoir si le neurone s'activera sur ce texte ou non.
+Soyez très rationnel et analytique. Le texte peut ne pas être clair - il peut contenir des sujets/concepts proches de la description du neurone, mais pas exacts. Dans ce cas, raisonnez de manière approfondie et faites preuve de discernement. Cependant, ne spéculez pas sur des sujets qui ne sont pas présents dans le texte.
+2. En vous basant sur l'étape précédente, prédisez si le neurone s'activera sur ce texte ou non. Si vous prédisez qu'il s'activera, attribuez un score de confiance de 0 à 1 (c'est-à-dire 1 si vous êtes certain qu'il s'activera parce qu'il contient des sujets/concepts qui correspondent exactement à la description, 0 si vous êtes très incertain). Si vous prévoyez qu'il ne sera pas activé, attribuez une note de confiance de -1 à 0.
+3. Indiquez la note de confiance finale sous la forme PREDICTION : (votre prédiction), par exemple PREDICTION : 0.5. Ne renvoyez RIEN après cela.
+Voici la description/interprétation du type de texte sur lequel le neurone s'active : 
+{description}
+Voici le texte à prédire : 
+{text}
+Suivez les étapes de manière approfondie et analytique pour prédire si le neurone s'activera sur ce texte. N'oubliez pas de renvoyer votre réponse sous la forme PREDICTION : (votre prédiction).

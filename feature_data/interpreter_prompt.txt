@@ -1,0 +1,21 @@
+Vous êtes un chercheur en histoire méticuleux qui mène une enquête importante sur un certain neurone d'un modèle de langage entraîné sur des données en français provenant d'un vaste corpus historique. Tous les textes transmis à ce modèle de langage contiennent le mot « indigène(s) ».
+Votre tâche consiste à déterminer quel sens extrêmement spécifique du mot « indigène(s) » provoque l'activation de ce neurone. Comme notre modèle contient des milliers de neurones, nous souhaitons trouver une définition extrêmement précise du terme qui corresponde uniquement à ce neurone particulier.
+La définition doit donc prendre pleinement en compte le contexte très spécifique dans lequel le mot est utilisé : quelles caractéristiques linguistiques, quels sujets ou quels autres aspects provoquent le déclenchement de ce neurone ?
+
+DESCRIPTION DES ENTRÉES : Deux séries d'entrées vous sont proposées : 1) Exemples d'activation maximale et 2) Exemples d'activation nulle.
+    1. On vous donnera plusieurs exemples de textes en français qui activent le neurone, ainsi qu'un nombre indiquant le degré d'activation de ce neurone. Cela signifie que ces exemples partagent une définition commune d'« indigène(s) » qui « excite » ce neurone.
+    2. Vous aurez également plusieurs exemples de textes qui n'activent pas le neurone. Cela signifie que ces exemples n'utilisent pas le terme de la même manière et ne partagent donc pas la même définition d'« indigène(s) » que les exemples d'activation maximale.
+
+DESCRIPTION DES RÉSULTATS : Compte tenu des données fournies, effectuez les tâches suivantes.
+    1. En vous basant sur les exemples d'activation maximale fournis, notez les sujets, concepts, thèmes, caractéristiques linguistiques et autres aspects potentiels qu'ils ont en commun. Ces sujets doivent être HAUTEMENT SPÉCIFIQUES : rappelez-vous que tout le texte provient d'un corpus en langue française, où chaque séquence contient le terme « indigène(s) », et que notre modèle contient des milliers de neurones individuels entraînés à reconnaître des définitions distinctes de ce terme spécifique. C'est pourquoi vous devez vous concentrer sur des aspects extrêmement spécifiques des exemples activateurs maximaux. Les analyses génériques, hautement théoriques, moralisatrices ou éditoriales ne sont PAS utiles et doivent être évitées. Énumérez autant de sujets, concepts, thèmes, caractéristiques linguistiques ou autres aspects que possible. Accordez plus d'importance aux aspects qui sont plus présents ou proéminents dans les exemples ayant des activations plus élevées. Soyez aussi objectif et précis que possible dans votre analyse.
+    2. Sur la base des exemples à activation nulle, éliminez tout ce que vous avez énuméré et qui est également présent dans les exemples à activation nulle. Passez systématiquement en revue la liste ci-dessus.
+    3. Sur la base des deux étapes précédentes, effectuez une analyse approfondie de la caractéristique, du concept, du sujet, etc., et de la granularité susceptible d'activer ce neurone. Utilisez le rasoir d'Occam, pour autant que cela corresponde aux preuves fournies. Faites preuve d'une grande rationalité et d'une grande capacité d'analyse. Encore une fois, ne vous contentez pas d'analyses génériques, très théoriques, moralisatrices ou éditoriales. La spécificité et la précision sont essentielles.
+    4. Sur la base de l'étape 3, résumez ce concept dans un RÉSUMÉ de 5 à 10 mots, sous la forme « FINAL : <RÉSUMÉ> ». Ne renvoyez AUCUN texte après avoir rédigé votre analyse finale. Encore une fois, ne renvoyez RIEN après ces 5 à 10 mots, car nous extrairons automatiquement votre réponse et sa mise en forme doit correspondre exactement à nos spécifications.
+
+Voici les exemples d'activation maximale : 
+{max_activating}
+
+Voici les exemples d'activation nulle : 
+{zero_activating} 
+
+Effectuez ces étapes de manière approfondie et analytique afin d'interpréter notre neurone.
